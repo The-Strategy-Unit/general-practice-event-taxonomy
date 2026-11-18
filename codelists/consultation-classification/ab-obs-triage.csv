@@ -1,0 +1,148 @@
+medcodeid,triage_term
+11990111000006118,Online triage encounter
+11990121000006114,Online triage outcome
+11990131000006112,Online triage outcome - prescription issued
+11990141000006119,Online triage outcome - telephone consultation
+11990151000006117,Online triage outcome - telephone consultation: prescription issued
+11990161000006115,Online triage outcome - patient to make appointment with GP
+11990171000006110,Online triage outcome - patient to make appointment online
+11990201000006114,Online triage outcome - video consultation
+11990211000006112,Online triage outcome - email sent to patient
+15132021000006117,Mental health triage
+11990181000006113,Online triage outcome - signposted to community pharmacist
+11990191000006111,Online triage outcome - signposted to other service
+12621291000006117,Signposting to GP (general practitioner) triage appointment
+1983901000006110,Manchester triage presentation
+1983911000006113,Manchester triage - Abdominal pain in adult
+1983921000006117,Manchester triage - Abdominal pain in child
+1983931000006119,Manchester triage - Abscess / local infection
+1983941000006112,Manchester triage - Abused / neglected child
+1983961000006111,Manchester triage - Apparently drunk
+1983971000006116,Manchester triage - Assault
+1983981000006118,Manchester triage - Asthma
+1983991000006115,Manchester triage - Back pain
+1984001000006112,Manchester triage - Behaving strangely
+1984011000006110,Manchester triage - Bite / sting
+1984021000006119,Manchester triage - Burn / scald
+1984031000006116,Manchester triage - Chemical exposure
+1984041000006114,Manchester triage - Chest pain
+1984051000006111,Manchester triage - Collapsed adult
+1984061000006113,Manchester triage - Crying baby
+1984071000006118,Manchester triage - Dental problem
+1984081000006115,Manchester triage - Diabetes
+1984091000006117,Manchester triage - Diarrhoea and vomiting
+1984101000006111,Manchester triage - Ear problem
+1984111000006114,Manchester triage - Eye problem
+1984121000006118,Manchester triage - Facial problem
+1984131000006115,Manchester triage - Fall
+1984141000006113,Manchester triage - Fit
+1984151000006110,Manchester triage - Foreign body
+1984161000006112,Manchester triage - GI bleeding
+1984171000006117,Manchester triage - Headache
+1984191000006116,Manchester triage - Irritable child
+1984201000006118,Manchester triage - Limb problem
+1984211000006115,Manchester triage - Limping child
+1984221000006111,Manchester triage - Major trauma
+1984231000006114,Manchester triage - Mental illness
+1984241000006116,Manchester triage - Neck pain
+1984251000006119,Manchester triage - Overdose / poisoning
+1984261000006117,Manchester triage - Palpitations
+1984271000006112,Manchester triage - Pregnancy
+1984281000006110,Manchester triage - PV bleeding
+1984291000006113,Manchester triage - Rash
+1984301000006114,Manchester triage - Self-harm
+1984311000006112,Manchester triage - Sexually acquired infection
+1984321000006116,Manchester triage - Shortness of breath in adult
+1984331000006118,Manchester triage - Shortness of breath in child
+1984341000006111,Manchester triage - Sore throat
+1984361000006110,Manchester triage - Torso injury
+1984371000006115,Manchester triage - Unwell adult
+1984391000006119,Manchester triage - Unwell child
+1984401000006117,Manchester triage - Unwell newborn
+1984411000006119,Manchester triage - Urinary problem
+1984421000006110,Manchester triage - Worried parent
+1984431000006113,Manchester triage - Wound
+1984441000006115,Manchester triage - Major incident - primary
+1984451000006118,Manchester triage - Major incident - secondary
+1984471000006111,UK triage scale - Urgency 1 (immediate)
+1984481000006114,UK triage scale - Urgency 2 (very urgent)
+1984491000006112,UK triage scale - Urgency 3 (urgent)
+1984501000006116,UK triage scale - Urgency 4 (standard)
+1984511000006118,UK triage scale - Urgency 5 (non-urgent)
+1989881000006110,Primary care nurse triage finding - PR1 (patient is of clinical concern)
+1989891000006113,Primary care nurse triage finding - PR2 (medical review 30 min/fasting bloods)
+1989901000006112,Primary care nurse triage finding - PR3 (review 60 min/musculoskeletal)
+2000731000006117,Date of GP triage appointment offered to patient
+1983951000006114,Manchester triage - Allergy
+1984181000006119,Manchester triage - Head injury
+1984351000006113,Manchester triage - Testicular pain
+1984381000006117,Manchester triage - Unwell baby
+1984461000006116,UK triage scale
+8442071000006110,eConsultation via online application
+2717331000000110,Signposting to nurse triage
+1849581000006111,Referral to rheumatology triage service
+1849961000006112,Referred by orthopaedic triage service
+1917301000006116,Referral received for occupational health triage
+1917311000006118,Routine referral received for occupational health triage
+1917341000006119,Occupational health triage outcome
+1917351000006117,OH triage outcome - telephone advice given
+1917361000006115,OH triage outcome - appointment needed
+1917371000006110,OH triage outcome - unable to contact patient
+1917381000006113,OH triage outcome - needs new referral appointment
+1917391000006111,OH triage outcome - needs review appointment
+1917401000006113,OH triage outcome - needs telephone consultation appt
+1917411000006111,OH triage outcome - to see OH nurse advisor
+1917421000006115,OH triage outcome - to see OH specialist practitioner
+1917431000006117,OH triage outcome - to see OH consultant
+1917521000006116,Occupational health triage process completed
+1917451000006112,OH triage outcome - to see trainee OH doctor
+1959831000006119,GP notified of triage service outcome
+1962241000006113,Medical Treatment Triage Category
+1964001000006110,Paper triage of referral
+2133281000000110,"Referral to ear, nose and throat triage service"
+2169311000000117,Referral to orthopaedic triage service
+2192901000000112,Referral to spinal orthopaedic triage service
+2192941000000110,Referral to peripheral joint orthopaedic triage service
+2378391000000117,Inappropriate triage decision
+2378431000000113,Appropriate triage decision
+2449011000000110,Remote triage and advice plan
+2731611000000113,Referral to remote triage and advice service
+4929181000006115,Triage nurse
+4940531000006119,Triage
+5557451000006111,Triage index
+6455731000006113,Triage: telephone
+7698561000006114,Assessment using Manchester Triage System
+7978561000006115,Triage form
+8056631000006111,Assessment for back pain triage
+8323171000006111,Remote triage and advice service
+459247016,Seen by triage nurse
+1780456010,Telephone triage encounter
+2693753017,Nurse triage declined
+299101000000115,Advised to contact physiotherapy triage service
+300801000000110,Seen by mental health triage nurse
+300831000000116,Mental health triage nurse follow up
+300861000000114,Discharged from care of mental health triage nurse
+480941000000110,Nurse telephone triage
+909291000006111,[RFC] Triage
+968491000006115,NDTMS - triage date
+1573111000006110,Referral to optometry triage service
+1638571000006111,Primary care nurse triage assessment administration
+1638581000006114,Primary care nurse triage assessment finding
+1638591000006112,Primary care nurse triage assessment finding - Category 1
+1638601000006116,Primary care nurse triage assessment finding - Category 2
+1638611000006118,Primary care nurse triage assessment finding - Category 3
+1638621000006114,Primary care nurse triage assessment finding - Category 4
+1638631000006112,Primary care nurse triage assessment finding - Category 5
+1638651000006117,Primary care nurse triage assessment history
+1638671000006110,Primary care nurse triage assessment comments
+1638681000006113,Primary care nurse triage assessment - recommended disposal
+1638691000006111,Primary care nurse triage assessment - AED (Major) recommended
+1638701000006111,Primary care nurse triage assessment - AED (Minor) recommended
+1638711000006114,Primary care nurse triage assessment- GP appointment recommended
+1638721000006118,Primary care nurse triage assessment - self care recommended
+1638741000006113,Primary care nurse triage assessment - seen in AED (Major)
+1638751000006110,Primary care nurse triage assessment - seen in AED (Minor)
+1638761000006112,Primary care nurse triage assessment - GP appointment made
+1638771000006117,Primary care nurse triage assessment - self care outcome
+1638661000006115,Primary care nurse triage assessment examination
+1638731000006115,Primary care nurse triage assessment - disposal outcome

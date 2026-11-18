@@ -1,0 +1,155 @@
+condition_id,snomedctconceptid,snomed_code_description
+Asthma,185731000,Asthma monitoring call first letter
+Asthma,185732007,Asthma monitoring call second letter
+Asthma,185736005,Asthma monitoring call telephone invite
+Asthma,185734008,Asthma monitoring call third letter
+Asthma,185735009,Asthma monitoring call verbal invite
+Asthma,928511000000107,Asthma monitoring invitation email
+Asthma,928451000000107,Asthma monitoring invitation short message service text message
+Asthma,959401000000101,Asthma monitoring short message service text message first invitation
+Asthma,959421000000105,Asthma monitoring short message service text message second invitation
+Asthma,959441000000103,Asthma monitoring short message service text message third invitation
+Asthma,1110841000000103,Quality and Outcomes Framework asthma quality indicator-related care invitation
+Asthma,92161000000104,Quality and Outcomes Framework asthma quality indicator-related care invitation using preferred method of communication
+Asthma,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Atrial fibrillation,717221000000101,Atrial fibrillation monitoring first letter
+Atrial fibrillation,711411000000101,Atrial fibrillation monitoring invitation
+Atrial fibrillation,716981000000106,Atrial fibrillation monitoring second letter
+Atrial fibrillation,716721000000107,Atrial fibrillation monitoring telephone invitation
+Atrial fibrillation,716181000000109,Atrial fibrillation monitoring third letter
+Atrial fibrillation,717011000000100,Atrial fibrillation monitoring verbal invitation
+Atrial fibrillation,1110851000000100,Quality and Outcomes Framework atrial fibrillation quality indicator-related care invitation
+Atrial fibrillation,133111000000106,Quality and Outcomes Framework atrial fibrillation quality indicator-related care invitation using preferred method of communication
+Atrial fibrillation,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Cancer,413738001,Cancer monitoring first letter
+Cancer,413739009,Cancer monitoring invitation
+Cancer,413740006,Cancer monitoring second letter
+Cancer,248331000000109,Cancer monitoring telephone invitation
+Cancer,413741005,Cancer monitoring third letter
+Cancer,417084004,Cancer monitoring verbal invitation
+Cancer,1110871000000109,Quality and Outcomes Framework cancer quality indicator-related care invitation
+Cancer,143351000000108,Quality and Outcomes Framework cancer quality indicator-related care invitation using preferred method of communication
+Cancer,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+CHD,401250009,Coronary heart disease monitoring first letter
+CHD,401251008,Coronary heart disease monitoring second letter
+CHD,401252001,Coronary heart disease monitoring third letter
+CHD,401253006,Coronary heart disease monitoring verbal invitation
+CHD,1083121000000102,Coronary heart disease monitoring invitation
+CHD,1083131000000100,Coronary heart disease monitoring invitation email
+CHD,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+CHD,1110881000000106,Quality and Outcomes Framework secondary prevention of coronary heart disease quality indicator-related care invitation
+CHD,143451000000101,Quality and Outcomes Framework secondary prevention of coronary heart disease quality indicator-related care invitation using preferred method of communication
+CHD,248461000000107,Coronary heart disease monitoring telephone invitation
+Cholesterol,310879007,Cholesterol reduction program - invited
+Cholesterol,716001000000100,Lipid disorder monitoring first letter
+Cholesterol,711471000000106,Lipid disorder monitoring invitation
+Cholesterol,716751000000102,Lipid disorder monitoring second letter
+Cholesterol,716741000000100,Lipid disorder monitoring telephone invitation
+Cholesterol,716461000000106,Lipid disorder monitoring verbal invitation
+Cholesterol,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+COPD,1066231000000103,Chronic obstructive pulmonary disease monitoring email invitation
+COPD,716241000000106,Chronic obstructive pulmonary disease monitoring first letter
+COPD,711431000000109,Chronic obstructive pulmonary disease monitoring invitation
+COPD,717021000000106,Chronic obstructive pulmonary disease monitoring second letter
+COPD,1066821000000101,Chronic obstructive pulmonary disease monitoring short message service text message first invitation
+COPD,1066281000000104,Chronic obstructive pulmonary disease monitoring short message service text message invitation
+COPD,1066841000000108,Chronic obstructive pulmonary disease monitoring short message service text message second invitation
+COPD,1066851000000106,Chronic obstructive pulmonary disease monitoring short message service text message third invitation
+COPD,716901000000101,Chronic obstructive pulmonary disease monitoring telephone invitation
+COPD,717521000000104,Chronic obstructive pulmonary disease monitoring third letter
+COPD,716281000000103,Chronic obstructive pulmonary disease monitoring verbal invitation
+COPD,1110861000000102,Quality and Outcomes Framework chronic obstructive pulmonary disease quality indicator-related care invitation
+COPD,143371000000104,Quality and Outcomes Framework chronic obstructive pulmonary disease quality indicator-related care invitation using preferred method of communication
+COPD,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Dementia,715821000000107,Dementia monitoring first letter
+Dementia,711441000000100,Dementia monitoring invitation
+Dementia,717471000000101,Dementia monitoring second letter
+Dementia,716991000000108,Dementia monitoring telephone invitation
+Dementia,716671000000102,Dementia monitoring third letter
+Dementia,716221000000104,Dementia monitoring verbal invitation
+Dementia,1110901000000109,Quality and Outcomes Framework dementia quality indicator-related care invitation
+Dementia,143381000000102,Quality and Outcomes Framework dementia quality indicator-related care invitation using preferred method of communication
+Dementia,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Depression,717211000000107,Depression monitoring first letter
+Depression,711451000000102,Depression monitoring invitation
+Depression,1083051000000106,Depression monitoring invitation email
+Depression,1083071000000102,Depression monitoring invitation short message service text message
+Depression,716681000000100,Depression monitoring second letter
+Depression,716421000000103,Depression monitoring telephone invitation
+Depression,716961000000102,Depression monitoring third letter
+Depression,717261000000109,Depression monitoring verbal invitation
+Depression,1110911000000106,Quality and Outcomes Framework depression quality indicator-related care invitation
+Depression,143391000000100,Quality and Outcomes Framework depression quality indicator-related care invitation using preferred method of communication
+Depression,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Diabetes,185756006,Diabetes monitoring first letter
+Diabetes,310425007,Diabetes monitoring invitation
+Diabetes,705072004,Diabetes monitoring invitation by short message service text messaging
+Diabetes,1083111000000108,Diabetes monitoring invitation email
+Diabetes,185757002,Diabetes monitoring second letter
+Diabetes,1066911000000100,Diabetes monitoring short message service text message first invitation
+Diabetes,1066921000000106,Diabetes monitoring short message service text message second invitation
+Diabetes,1066931000000108,Diabetes monitoring short message service text message third invitation
+Diabetes,185760009,Diabetes monitoring telephone invite
+Diabetes,185758007,Diabetes monitoring third letter
+Diabetes,185759004,Diabetes monitoring verbal invite
+Diabetes,1110921000000100,Quality and Outcomes Framework diabetes mellitus quality indicator-related care invitation
+Diabetes,143401000000102,Quality and Outcomes Framework diabetes mellitus quality indicator-related care invitation using preferred method of communication
+Diabetes,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Heart failure,716971000000109,Heart failure monitoring first letter
+Heart failure,711461000000104,Heart failure monitoring invitation
+Heart failure,717191000000108,Heart failure monitoring second letter
+Heart failure,717531000000102,Heart failure monitoring telephone invitation
+Heart failure,716621000000101,Heart failure monitoring third letter
+Heart failure,717501000000108,Heart failure monitoring verbal invitation
+Heart failure,1110931000000103,Quality and Outcomes Framework heart failure quality indicator-related care invitation
+Heart failure,143411000000100,Quality and Outcomes Framework heart failure quality indicator-related care invitation using preferred method of communication
+Heart failure,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Hypertension,185719002,Hypertension monitoring first letter
+Hypertension,310427004,Hypertension monitoring invitation
+Hypertension,1083101000000106,Hypertension monitoring invitation email
+Hypertension,1066941000000104,Hypertension monitoring invitation short message service text message
+Hypertension,185720008,Hypertension monitoring second letter
+Hypertension,1066951000000101,Hypertension monitoring short message service text message first invitation
+Hypertension,1066961000000103,Hypertension monitoring short message service text message second invitation
+Hypertension,1066971000000105,Hypertension monitoring short message service text message third invitation
+Hypertension,185723005,Hypertension monitoring telephone invite
+Hypertension,185721007,Hypertension monitoring third letter
+Hypertension,185722000,Hypertension monitoring verbal invite
+Hypertension,1110941000000107,Quality and Outcomes Framework hypertension quality indicator-related care invitation
+Hypertension,143421000000106,Quality and Outcomes Framework hypertension quality indicator-related care invitation using preferred method of communication
+Hypertension,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Mental health,414668005,Mental health monitoring first letter
+Mental health,414669002,Mental health monitoring invitation
+Mental health,414670001,Mental health monitoring second letter
+Mental health,1084191000000101,Mental health monitoring short message service text invitation
+Mental health,248551000000108,Mental health monitoring telephone invitation
+Mental health,414671002,Mental health monitoring third letter
+Mental health,416883000,Mental health monitoring verbal invitation
+Mental health,1110951000000105,Quality and Outcomes Framework mental health quality indicator-related care invitation
+Mental health,143431000000108,Quality and Outcomes Framework mental health quality indicator-related care invitation using preferred method of communication
+Mental health,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Non-diabetic hyperglycaemia,148561000000109,Quality and Outcomes Framework non-diabetic hyperglycaemia quality indicator-related care invitation
+Non-diabetic hyperglycaemia,148571000000102,Quality and Outcomes Framework non-diabetic hyperglycaemia quality indicator-related care invitation using preferred method of communication
+Non-diabetic hyperglycaemia,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Smoking,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Smoking,1110971000000101,Quality and Outcomes Framework smoking quality indicator-related care invitation
+Smoking,143461000000103,Quality and Outcomes Framework smoking quality indicator-related care invitation using preferred method of communication
+Smoking,310429001,Smoking monitoring invitation
+Smoking,783401000000101,Stop smoking invitation first short message service text message
+Smoking,783441000000103,Stop smoking invitation second short message service text message
+Smoking,783381000000101,Stop smoking invitation short message service text message
+Smoking,783481000000106,Stop smoking invitation third short message service text message
+Smoking,185792005,Stop smoking monitoring first letter
+Smoking,185793000,Stop smoking monitoring second letter
+Smoking,185796008,Stop smoking monitoring telephone invite
+Smoking,185794006,Stop smoking monitoring third letter
+Smoking,185795007,Stop smoking monitoring verbal invite
+Stroke,717241000000108,Stroke/transient ischaemic attack monitoring telephone invitation
+Stroke,415628004,Stroke/transient ischemic attack monitoring first letter
+Stroke,417540008,Stroke/transient ischemic attack monitoring invitation
+Stroke,415629007,Stroke/transient ischemic attack monitoring second letter
+Stroke,415631003,Stroke/transient ischemic attack monitoring third letter
+Stroke,417059002,Stroke/transient ischemic attack monitoring verbal invitation
+Stroke,1109921000000106,Quality and Outcomes Framework quality indicator-related care invitation
+Stroke,1110981000000104,Quality and Outcomes Framework stroke and transient ischaemic attack quality indicator-related care invitation
+Stroke,143471000000105,Quality and Outcomes Framework stroke and transient ischaemic attack quality indicator-related care invitation using preferred method of communication

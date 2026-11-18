@@ -1,0 +1,48 @@
+condition_id,snomedctconceptid,snomed_code_description
+Asthma,270442000,Asthma monitoring check done
+Asthma,394720003,Asthma medication review
+Asthma,394700004,Asthma annual review
+Asthma,394701000,Asthma follow-up
+Asthma,401183006,Asthma monitoring by doctor
+Asthma,401182001,Asthma monitoring by nurse
+Asthma,754061000000100,Asthma review using Royal College of Physicians three questions
+Asthma,390872009,Change in asthma management plan
+Asthma,390878008,Step down change in asthma management plan
+Asthma,390877003,Step up change in asthma management plan
+Cancer,720006006,Cancer care review
+COPD,760601000000107,Chronic obstructive pulmonary disease 3 monthly review
+COPD,760621000000103,Chronic obstructive pulmonary disease 6 monthly review
+COPD,394703002,Chronic obstructive pulmonary disease annual review
+Dementia,1095111000000108,Review of dementia advance care plan
+Dementia,1148161000000104,Review of dementia care plan
+Dementia,956861000000107,Dementia care plan reviewed
+Depression,413972000,Depression annual review
+Depression,413973005,Depression interim review
+Depression,413974004,Depression medication review
+Depression,870191006,Follow up for depression
+Heart failure,473226007,Heart failure medication review
+Heart failure,872361000000105,Discussion about heart failure care plan
+Heart failure,813991000000101,Education about deteriorating heart failure
+Heart failure,810971000000105,Heart failure self-management plan review
+Heart failure,134378009,Congestive heart failure monitoring
+Heart failure,247361000000100,Heart failure 6 month review
+Heart failure,390885007,Heart failure annual review
+Heart failure,851071000000108,Heart failure initial assessment
+Heart failure,871681000000102,Heart failure monitoring
+Heart failure,202231000000106,Heart failure review completed
+Heart failure,1079381000000109,Medication review by community nurse
+Heart failure,803361000000109,Medication review by practice nurse
+Heart failure,88551000000109,Medication review with patient
+Heart failure,391156007,Medication review without patient
+Heart failure,870661000000100,Polypharmacy medication review
+Heart failure,182836005,Review of medication
+Heart failure,1239511000000100,Structured medication review
+Heart failure,314530002,Medication review done
+Heart failure,1127441000000107,Medication review done by clinical pharmacist
+Heart failure,719327002,Medication review done by community pharmacist
+Heart failure,719328007,Medication review done by doctor
+Heart failure,961831000000100,Medication review done by medicines management pharmacist
+Heart failure,961861000000105,Medication review done by medicines management technician
+Heart failure,719478008,Medication review done by nurse
+Heart failure,719329004,Medication review done by pharmacist
+Heart failure,719326006,Medication review done by pharmacy technician

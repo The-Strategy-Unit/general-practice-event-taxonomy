@@ -1,0 +1,166 @@
+medcodeid,patient_registration_term
+2459931000000116,Patient allocated named accountable general practitioner
+284280019,Patient registration
+5871000000111,New registration check done and claimable
+404966018,Patient registered GMS1
+569551000000116,Patient registration data verified
+284336017,Patient registration status
+241261000006114,Patient deregistration
+242611000006115,Patient signed registration form
+5515821000006119,Patient registered GMS1
+421000000111,Patient registration data
+856401000006114,Registration medical
+19431000000111,FP/RF registration fee paid
+284472011,Patient registration NOS
+1652961000000117,Registration transferred to practice pooled list
+62311000000118,Temporary registration
+242231000006112,Patient registration miscellaneous data
+62301000000115,GMS - full registration
+284281015,Patient registration-form used
+8012921000006110,Patient deregistration - health record sent to Health Authority
+461000000115,Patient registration data NOS
+32271000000110,Temp res registration
+1745941000006112,Patient registration transferred to practice pooled list
+61991000000116,Registration type
+2389101000000113,Registration for access to Patient Facing Service
+1967071000006113,"Out of area registration, in-hours urgent primary medical care enhanced services administration"
+284388012,Registration ghost - deceased
+1845451000006118,Patient registration miscellaneous data - additional
+878861000006114,Registration Fee Claim Fp/Rf
+8091000000113,GMS4 claim - registration examination sent to health authority
+8071000000114,GMS4 claim - registration examination signed
+459239016,Temporary resident registration expired
+404969013,"Patient registration-""ghosts"""
+242171000006115,Patient registration - data queries
+242181000006117,Patient registration data unknown
+25681000000116,FP58 - newborn registration
+14333751000006119,Registration for GMS (General Medical Services) offered
+8227311000006115,GP22 deregistration - moved out of area
+8012931000006113,Patient deregistration - health record sent to Health Board
+7805631000006116,Registration for online access to local general practice service
+284377018,Registration status unknown
+8227271000006115,GP22 deregistration - practice advise outside of their area
+62321000000112,Maternity registration
+8219271000006118,Registration information
+404951016,Patient registration med.card
+242571000006113,Patient self-deregistration
+63581000000112,GMS - provisional registration
+8194081000006112,Consent given for registration with Sure Start
+7805621000006119,Registration for online access to local general practice service declined
+63591000000114,Contraceptive registration
+1691281000006110,Patient deregistration - health record sent to Health Board
+5973151000006118,Registration status
+8009721000006117,FP/RF new registration check signed
+2000561000006118,Assistance with GP registration
+12116581000006116,Registration for online access to myCOPD application offered
+8227031000006111,GP/RF new registration check form sent to health board
+5972581000006112,Registration procedure
+8111000000115,GMS4 claim - registration examination paid
+1925451000006113,Registration for access to Patient Facing Service discontinued
+8227321000006111,GP22 deregistration - internal transfer within partnership
+8227331000006114,GP22 deregistration - internal transfer address change
+2474714018,Mental health registration status
+7975071000006110,FP/RF new registration check sent to Family Practitioner Committee
+8011051000006113,FP58 newborn registration form
+8227091000006110,GP22 deregistration - death
+1757301000006117,Registration details not given - patient refused
+5575261000006116,Temporary resident registration
+622541000006116,Disabled registration application - fee paid
+8216281000006114,FP/RF new registration check administration
+12734751000006111,Registration for access to online heart disease self-management application
+284390013,Registration ghost - died
+8009731000006119,FP/RF registration fee paid
+459240019,Immediately necessary treatment registration expired
+640231000006113,Emergency treatment registration
+8003081000006118,Patient registration form sent to family practitioner committee
+2743631000000115,Declined assistance with GP (general practitioner) practice registration
+1855941000006112,Date registration record held from
+12734741000006114,Registration for access to online diabetes self-management application
+5973131000006113,Patient registration data status
+284389016,Registration ghost - dead
+3527975019,Education about registration of birth
+14333781000006110,Secure estate healthcare registration
+8227361000006117,GP22 deregistration - emigration
+7978251000006119,GP58 - newborn registration
+454032016,Disabled registration report requested
+8227211000006112,GP22 deregistration - returned undelivered
+7998451000006110,FP1 form patient registration without NHS card
+8011751000006111,FP/RF registration claim form status
+8227141000006119,GP22 deregistration - patient whereabouts known
+8227191000006111,GP22 deregistration - transfer with doctor's consent
+1873181000006119,Care contact type: registration health check
+8227171000006110,"GP22 deregistration - moved, change of address in area"
+13996421000006114,Registration with GP (general practitioner) practice aligned to care home declined
+8227261000006110,GP22 deregistration - practice changed and moved
+12116591000006118,Registration for online access to myCOPD application
+8227181000006113,GP22 deregistration - removed at doctor's request
+8227301000006118,GP22 deregistration - practice advise patient no longer resident
+12734731000006116,Registration for access to online asthma self-management application
+8194101000006116,Declined consent for registration with Sure Start
+2000571000006113,Patient refuses assistance with GP registration
+8227291000006119,GP22 deregistration - practice advise removal via screening system
+5942881000006114,Registration transact status
+5980361000006116,Patient deregistration status
+7998461000006112,FP4 form patient registration with NHS card
+14333871000006115,Registration for GMS (General Medical Services)
+7976661000006118,Patient deregistration - medical record envelope sent to health board
+5999631000006110,Deregistration procedure
+7983031000006116,GP/RF registration claim form status
+1855961000006111,Date registration record held to
+8011331000006115,FP/RF registration claim
+7997051000006116,Registration claim
+5515681000006119,Patient registration med.card
+2743611000000111,Assistance with GP (general practitioner) practice registration
+5972531000006111,At risk registration
+14332851000006119,Registration for access to online sleep management self-management application
+7976571000006114,"GP22 form from health board, patient deregistration"
+8227371000006112,GP22 deregistration - correspondence states gone away
+8227221000006116,GP22 deregistration - removed at patient's request
+7983521000006114,GP19 - temporary resident registration
+7973961000006118,"FP22 - adopted, re-registration - new name"
+8227081000006112,GP22 deregistration - added in error
+4731911000006118,Disabled registration application - full report
+8010471000006115,GP/RF - new registration check signed
+8243711000006111,Education about registration of birth
+14333881000006117,GMS (General Medical Services) registration
+5515871000006118,FPC acknowledge patient deregistration
+1676651000006118,GPC claim - registration examination sent to Health Board
+12705131000006111,Record occlusal registration
+4731941000006119,Disabled registration application - fee unpaid
+8227101000006116,GP22 deregistration - enlisted in Her Majesty's forces
+2508821000000115,Active serving member of the Army - temporary registration
+7998511000006110,FP22 form - deregistration
+1544331000006118,Record occlusal registration
+1676661000006116,GPC claim - registration examination paid
+1967001000006119,Active serving member of the Royal Air Force - temporary registration
+5192741000006116,Blind registration
+7978611000006117,FP4 computer form - patient registration
+7997111000006118,Rejection of registration claim
+1967011000006116,Active serving member of the Royal Navy - temporary registration
+4731901000006116,Disabled registration application - minimal report
+8227381000006110,"GP22 deregistration - adopted, re-registered with new name"
+14332841000006116,Registration for access to online mental health self-management application
+5681131000006118,Impairment of registration
+5999981000006115,Disabled registration application status
+8227251000006113,GP22 deregistration - registered twice
+4731921000006114,Disabled registration application - examined
+13996431000006112,Registration with general practitioner practice aligned to care home declined
+6000081000006119,Disabled registration report status
+8227241000006111,GP22 deregistration - removal from residential institute
+5575271000006111,Emergency treatment registration
+7998481000006119,FP13 form ex HM forces registration
+8227201000006114,GP22 deregistration - transfer to Her Majesty's forces medical officer
+1676491000006114,GPC claim - registration examination signed
+8227071000006114,GP13 ex Her Majesty's forces registration form
+1692641000006110,GP/RF registration fee paid
+11639451000006112,National Cancer Registration and Analysis Service histopathology reporting - CLUSTER 1A Malignant diagnosis simple reference set
+1820161000006117,MMSE - registration score
+1820171000006112,MMSE - registration (number of attempts)
+1967021000006112,Active serving member of the Royal Marines - temporary registration
+4517531000006117,Pre-registration house officer
+7998591000006117,GP4 form patient registration with NHS card
+8003851000006118,Health board acknowledge patient deregistration
+8010481000006117,GP/RF registration fee paid
+8177941000006115,Patient registration medical card
+8227021000006113,GP/RF registration claim form
+1002901000006111,Record occlusal registration

@@ -1,0 +1,289 @@
+medcodeid,death_registration_term
+9895871000006114,History of intrauterine fetal death
+9895881000006112,History of intrauterine foetal death
+11932021000006116,Death certificate - form 11
+14281881000006115,Death location type code (actual) : Private residence
+14281901000006118,Death location type code (actual) : Patient's own home
+14281911000006115,Death location type code (actual) : Care home with nursing
+14281921000006111,Death location type code (actual) : Care home without nursing
+14281931000006114,Death location type code (actual) : Other
+14282581000006111,Death location type code (preferred)
+14811541000006118,Death notification document
+15506421000006114,Past pregnancy history of intrauterine fetal death
+1777171000006111,Referral closure: Discharged - Patient died
+1777381000006111,RTTP Status: Patient died before treatment
+1778951000006117,Patient died in NHS hospice/specialist palliative care unit
+1778961000006115,Patient died in voluntary hospice/specialist palliative care ut.
+1779011000006114,Patient died not at preferred location
+1779051000006110,Patient died not at preferred location due to unknown reason
+1962431000006116,Patient died not at preferred location - transfer delays
+1962441000006114,Patient died not at preferred location - social support issues
+1962451000006111,Patient died not at preferred location - other reason
+1962881000006118,Patient died not at preferred location - capacity not available
+1964501000006119,Patient died in acute hospital
+2003771000006112,Patient died at preferred location
+2287191000000117,Patient died in usual place of residence
+2386971000000112,Patient died in hospice community lodge
+5926601000006116,Patient died during operation
+8266791000006118,Patient died in residential home
+8335911000006115,Patient died in Part III accommodation
+1775481000000115,Verification of expected death
+1778921000006114,Prefer.place of death:voluntary hospice/specialist pall. care ut
+1778941000006119,Prefer.place of death:not discussed with pt. prior to pt's death
+1779741000006111,Gold standards framework after death analysis completed
+1771181000006117,Allow natural death (do not attempt resuscitation) form signed
+1787411000006117,GP will sign death certificate
+1787421000006113,GP will not sign death certificate
+1842151000006115,Family history of sudden death under 40 years
+1842141000006117,Family history of sudden death
+1868441000006117,SUDIC (sudden unexpected death in childhood) rapid response team call out
+1892001000006114,Reason for advice line call - child death
+1919471000006112,Unvalidated notification of death received
+1919481000006110,Previous notification of death found to be false
+1920621000006113,Post death audit tool completed
+1993761000006114,Cause of death - Ia
+1993771000006119,Cause of death - Ib
+1993781000006116,Cause of death - Ic
+1993791000006118,Cause of death - II
+1993801000006117,Death not reported to police
+1993811000006119,Death reported to police
+2014641000006114,Person death details
+2014661000006113,Person death date
+2014671000006118,Death cause identification method
+2014681000006115,Death location type code
+2014701000006117,Death not at preferred location reason
+2014721000006110,Preferred death location discussed indicator
+2022191000006112,Maternal death - perinatal
+2345971000000113,Gold Standards Framework After Death Analysis Audit Tool
+2603291000006111,Death by electrocution
+2625381000006111,Accidental death
+2639041000000113,Sudden infant death syndrome with mention of autopsy
+2639081000000117,Sudden infant death syndrome without mention of autopsy
+2589101000000111,SUDEP - sudden unexpected death in epilepsy
+2668491000006117,PND - Perinatal death
+2722481000006117,Death by hanging
+2755221000006111,Death diagnosis
+2755231000006114,Major cause of death
+2763271000006115,Fetal death before 22 weeks with retention of dead fetus
+2769631000006119,Death in hospital
+2799841000006110,Non-traffic vehicular accidental death
+3121441000006115,Natural death
+3121451000006118,Death due to natural causes
+3329451000006114,Cot death
+3329461000006111,SIDS - Sudden infant death syndrome
+3463071000006110,Undelivered in utero fetal death
+3463081000006113,Undelivered in utero foetal death
+3594881000006113,Foetal death due to termination of pregnancy
+3606501000006117,"Undetermined manner of death, suicide suspected"
+3711081000006115,Death by cremation
+3919421000006115,Death of unknown cause
+4532041000006111,Family history of sudden infant death syndrome
+4532071000006115,Family history: Sudden infant death
+4532131000006117,Family history: Death under 60 years
+4624641000006119,Antenatal care: history of perinatal death
+4731011000006119,Asked for hospital death discharge letter
+4935311000006113,Grieving before death
+4947851000006112,Making arrangements for care of dependants following death
+5106171000006113,Antepartum fetal death
+5106201000006112,Intrapartum fetal death
+5507081000006117,Fetal or neonatal effect of maternal death
+5526851000006112,Death rattle
+5515981000006110,Unexpected death-Coroner told
+5583351000006119,Preoccupation with death
+5586151000006114,Foetal death
+5586161000006111,Fetal death
+5651471000006119,Brainstem death criteria
+5973471000006117,Death administrative procedure
+5973481000006119,Death certification status
+5973501000006112,Certificate - death
+6346311000006117,Patient death or serious disability associated with patient elopement (disappearance) for more than four hours
+7088261000006119,Verification of death
+7565451000006111,Unwitnessed death
+7880921000006115,H/O: neonatal death
+7974521000006115,Death certification Med A due
+7974571000006119,Death certification Med A given to family
+7880931000006117,History of neonatal death
+7998871000006115,Death certification status Med A
+8002321000006111,SD17/18 received - death clarification
+8003261000006115,FP22 - death
+8003341000006114,Death certificate Med A
+8003381000006115,Death certification Med A signed
+8003391000006117,Death certification Med A not signed - coroner case
+8004001000006113,Death certificate - form 11 signed
+8011071000006115,SD17 form - cause of death clarification
+8011091000006119,SD18 form - cause of death clarification
+8036791000006116,Family history of sudden cardiac death
+8063561000006117,Number of previous neonatal deaths
+7976691000006114,Death certification form 11 medical certificate of cause of death due
+7998881000006117,Death certification status Form 11
+8196241000006118,Fetal death before 24 weeks with retention of dead fetus
+8292301000006113,Personal care after death
+8328951000006113,Gold Standards Framework After Death Analysis Audit
+8440321000006113,Documented agreement for verification of expected death by competent clinician
+8451621000006110,Cadaver donor with DBD (donation after brain stem death)
+8227091000006110,GP22 deregistration - death
+284633015,Patient died at home
+284635010,Patient died in nursing home
+284637019,Patient died in hospital
+284638012,Patient died in street
+284642010,Patient died in place NOS
+457265014,Patient died in hospice
+1777320016,Patient died
+2474698010,Patient died in GP surgery
+138851000000112,Patient died in community hospital
+241291000006118,Patient died - to record place
+241341000006115,Patient died in part 3 accom.
+241361000006116,Patient died in public place
+241371000006111,Patient died in residential institution
+550081000000119,"Form 89 - patient died in medical care, patients family notified"
+608061000006116,Dead - place patient died
+620271000006113,Died - place patient died
+915831000006113,Patient died
+1552711000000110,Patient died in care home
+1562961000006110,Patient died
+1591521000006117,Patient died
+1691471000006111,Patient died in part 4 accom.
+9934019,Postoperative death
+11385017,Neonatal death
+18402014,Perinatal death
+44603011,Sudden death
+82799013,Unexpected death
+111839012,Fetal death due to termination of pregnancy
+248392011,Registrar-birth/death/marriage
+250151015,FH: Sudden infant death
+250156013,FH: Death under 60 years
+250986019,Sudden infant death
+251036019,Industrial death benefit
+251055019,Death grant
+252151011,H/O: perinatal death
+253836013,O/E - dead - unattended death
+253837016,O/E - dead - sudden death
+253839018,O/E - dead - cot death
+253841017,O/E - dead - suspicious death
+253899016,O/E - death rattle
+263124015,A/N care: H/O perinatal death
+284628019,Hospital death disch. NOS
+284646013,Cause of death
+284647016,Condition fatal-cause of death
+306710013,Intrauterine death unspecified
+306711012,Intrauterine death - delivered
+306712017,Intrauterine death with antenatal problem
+306713010,Intrauterine death NOS
+307614015,Death from sequelae of direct obstetric causes
+308212012,[X]Obstetric death of unspecified cause
+316262017,Fetal death due to prelabour anoxia
+316263010,Fetal death due to labour anoxia
+317935010,[D]Sudden infant death syndrome
+317936011,[D]Cot death
+317937019,[D]Crib death
+317938012,[D]Nonspecific sudden infant death
+317939016,[D]Sudden infant death syndrome NOS
+317940019,Instantaneous death
+317942010,"[D]Death, not instantaneous cause unknown"
+317945012,Unattended death
+317946013,"[D]Found after death, unknown cause of death"
+317948014,[D]Unattended death NOS
+317949018,"[D]Sudden death, cause unknown NOS"
+318093018,"[X]Other sudden death, cause unknown"
+318094012,[X]Other ill-defined and unspecified causes of death
+317941015,Death in less than 24 hours from onset of symptoms
+317944011,[D]Death less than 24 hours from onset of illness NOS
+317934014,"Sudden death, cause unknown"
+355739011,Direct maternal death
+355741012,Late maternal death
+355743010,Fetal intrapartum death
+355745015,Intrauterine death of one twin
+359965012,Infant death
+402173014,Fetus affected by maternal death
+402174015,Fetus or neonate affected by maternal death
+404986019,Unexpected death-Coroner told
+410471015,"Death occurring less than 24 hours from onset of symptoms, not otherwise expected"
+412656018,Perinatal and neonatal death
+412661016,Late neonatal death
+412662011,Newborn death
+451959013,Death certification
+457273017,Place of death
+482184017,Death notification
+1227784018,Death certificate
+1235218015,Death - cause unknown
+1485127012,Postneonatal death
+1485203019,Early neonatal death
+1494835016,H/O: cot death in family
+1777777018,Perioperative death
+1777839016,Time of death
+1779056015,Date of death
+1780508019,Hospital notified of death
+2159201017,Pocock et al death from cardiovascular disease risk score
+2534640019,Preoperative anaesthetic death
+2576617013,Death
+2694238019,Death verification
+2794110017,Stillbirth - unknown if foetal death intrapartum or prior to labour
+2871584019,Antepartum foetal death
+2873069014,Foetal intrapartum death
+3507736012,Documented agreement for verification of expected death by competent clinician
+3511402018,Requires referral to coroner at time of death
+821000000114,Death administration
+1441000000117,SD17/18 received-death clarif.
+17971000000114,FP22-death
+18131000000114,Death certificate form Med A
+18151000000119,Death cert. Med A due
+18171000000111,Death cert. Med A signed
+18211000000114,Death cert. Med A NOS
+25701000000119,SD17 - cause of death clarif
+25711000000117,SD18 - cause of death clarif
+1471000000111,SD17/18 cause of death NOS
+1701000000112,Death administration NOS
+119261000006115,Sudden cardiac death
+193281000006110,Received hospital death discharge letter
+278041000006110,O/E - respiratory death
+268951000006119,Maternal death
+428241000006117,Sudden infant death syndrome
+494561000006119,Ask for hosp death disch lett.
+500831000006114,Awaiting hospital death discharge letter
+539921000006115,Cause of death clarification SD17/18
+608281000006119,Death in hospital
+608291000006116,Death notification from hospital
+608301000006115,Death notification - non-hospital source
+608311000006117,Death from any obstetric cause occurring more than 42 days but less than one year after delivery
+608571000006119,Place of death - finding
+669381000006115,Fetal death in utero
+828231000006117,Hospital death discharge notification
+853471000006114,Death in utero
+888271000006112,Intra-uterine death
+893771000006110,Maternal death - perinatal
+894181000006114,Death - prelabour asphyxia
+894191000006112,Death - labour asphyxia
+895091000006110,Death unexplained < 24hrs [D]
+895101000006116,"Death,not violent/instantan[D]"
+895111000006118,Death unexpl.<24hrs NOS [D]
+895121000006114,"Death,body found, ? cause [D]"
+905941000006110,[RFC] CONI (after a cot death in the family)
+905981000006116,[RFC] Neo-natal death/still-birth counselling (6 weeks+)
+919561000006116,A/N care: H/O perinatal death
+1009101000006119,CDSSH pilot - total number of neonatal deaths
+1103841000000110,"[D]Death, not violent/instantaneous"
+1146621000000115,"Unexpected.death, Procurator Fiscal told"
+1576201000006111,Cause of Death- Malignant Neoplasms
+1576211000006114,Cause of Death- Ca Body - Stomach
+1576221000006118,Cause of Death- Ca Rectum
+1576231000006115,Cause of Death- Ca Larynx - Glottis
+1576241000006113,Cause of Death- Ca Trachea/Bronchus/Lung NOS
+1576251000006110,Cause of Death- carcinoma of oesophagus
+1576261000006112,Cause of Death- Cerebral Infarct
+1576271000006117,Cause of Death- Myocardial Infarction
+1576281000006119,Cause of Death- Alzheimer'S Disease
+1576291000006116,Cause of Death- Circulatory System Diseases
+1576301000006115,Cause of Death- Acute Myocardial Infarction
+1576311000006117,Cause of Death- Angina Pectoris
+1576321000006113,Cause of Death- Congestive Cardiac Failure
+1576331000006111,Cause of Death- Myocardial Degeneration
+1576341000006118,Cause of Death- Bronchopneumonia
+1576351000006116,Cause of Death- Obstretric Disorders NOS
+1576701000006119,Cause of Death- Aircraft accid.NOS-milit.occ.
+1576871000006116,Cause of Death
+1691051000006111,GP22-death
+1691301000006114,Death certificate - form 11
+1691311000006112,Death cert. - form 11 due
+1691321000006116,Death cert. - form 11 signed
+1691351000006113,Death cert. - form 11 NOS
+1714421000006119,Notification to primary care out of hours service of anticipated death

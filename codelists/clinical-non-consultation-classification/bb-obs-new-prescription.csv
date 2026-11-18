@@ -1,0 +1,126 @@
+medcodeid,prescriptions_new_term
+12113821000006113,Management of nutrition-related prescription medication
+12370311000006116,Drug prescription record
+13002151000006117,Urgent supply of prescription items by community pharmacy
+14758341000006112,Prescription given
+14758351000006114,Prescription issued
+14850701000006110,Prescription given with no examination of subject
+14932561000006110,Community Pharmacist Consultation Service for urgent supply of prescription items
+11990131000006112,Online triage outcome - prescription issued
+11990151000006117,Online triage outcome - telephone consultation: prescription issued
+1807171000006119,Prescription telephone order by patient
+1809691000006116,Prescription of oral medication - PM120
+1877581000006118,Prescription request
+1877591000006115,Prescription request by patient
+1877601000006111,Prescription request by pharmacy
+1877611000006114,Prescription request by third party on behalf of patient
+1877621000006118,Prescription request by residential institution
+1878741000006115,Prescription telephone order by third party
+1910791000006114,Prescription request by dietitian
+1937961000006110,Urinary catheter prescription requested for patient
+1966951000006116,Provision of Treating Your Infection self-care patient leaflet with back-up antibiotic prescription issued
+1989861000006117,Handwritten prescription
+2006031000006116,Message sent to patient with electronic prescription
+2250601000000111,Prescription of palliative care anticipatory medication
+2308971000000114,Prescription of orthotic device
+2348031000000116,Prescription of respiratory disease rescue medication
+2405291000000117,Prescription of anticipatory care medication declined
+2406501000000117,Prescription of anticipatory care medication not appropriate
+2538661000006112,"Prescription, fitting and dispensing of contact lens"
+2725881000000117,Prescription requested
+2735011000000119,Information prescription declined
+2754911000006110,Prescription
+2754921000006119,Prescription of
+3041081000006110,Prescription of drug
+3041091000006113,Medication prescription
+3041111000006116,Medication prescription treatments and procedures
+3393651000006118,Prescription of treatment plan
+3596971000006113,Prescription of service
+4216761000006114,Change of prescription
+4426571000006119,Prescription - action
+4717701000006118,Prescription issued for patient on vacation
+4739751000006119,Prescription event monitoring requested
+4982051000006114,Prescription of splint
+5434751000006117,Prescription
+5434761000006115,Px - Prescription
+5482231000006119,Prescription of optical aid - action
+5482241000006112,Prescription of optical aid
+5984081000006119,Prescription event monitoring status
+6024701000006113,Prescription of appliance
+6051031000006116,Prescription status
+6547911000006119,Advisory Committee on Borderline Substances prescription
+7238971000006116,Prescription record
+7238981000006118,Prescription
+7318211000006119,Change of prescription for haemodialysis
+7563391000006114,Prescription of emergency contraception
+7570481000006115,Initial prescription of oral contraception
+7571191000006116,Prescription of contraception
+7571201000006118,Prescription for contraceptive
+7706241000006116,Prescription of anticipatory care medication
+7965361000006112,Prescription status
+7966451000006113,Error in prescription
+7986851000006113,Prescription exempt form-preg
+8006131000006111,Prescription payment status
+8017281000006117,Prescription of emergency contraception done
+8049811000006112,Prescription
+8049831000006118,Prescription Cancel Request
+8094791000006118,Checking prescription
+8108621000006113,Advance prescription of emergency contraceptive pill
+8133991000006119,Prescription of drug from outside authority list
+8235401000006115,Prescription cancelled
+8257541000006112,Issue of FP10MDA prescription
+8259691000006112,Provision of information prescription
+8272001000006119,Prescription and administration record
+8337451000006117,National Health Service prescription
+8359271000006115,Prescription of simple equipment
+8438361000006117,Delayed prescription given
+282618010,Therapeutic prescription
+282619019,Drug prescription
+282638011,Prescription issued for patient on holiday
+282641019,Therapeutic prescription NOS
+284766010,Has prescription season ticket
+285883017,Prescription event monitoring
+295327010,Misuse of prescription only drugs
+397154018,Prescription given no examination of patient
+411626013,Prescription season ticket
+453098011,Prescription dose change
+459270012,Prescription by nurse practitioner
+459421011,Lost prescription
+1227628011,[V]Contraceptive cream prescription
+1227630013,[V]Oral contraceptive prescription
+1488528013,Prescription types
+1488529017,NHS prescription
+1488530010,Private prescription
+1488531014,ACBS prescription
+1488695011,Hospital prescription
+1488911017,Prescription by nurse
+2160100019,Prescription by GP
+3512102012,Number of prescriptions for reliever inhaler per year
+3634348017,Medicinal prescription
+3634359014,Therapy prescription
+3634360016,Therapy prescription record
+12061000000115,Prescription payment exemption status
+21031000000112,Prescription payment exemption
+198451000000119,Prescription by supplementary prescriber
+208101000006116,Prescription given no interview of patient
+300391000000110,Prescription sent to pharmacy
+311691000000112,Prescription sent to patient
+406111000000113,Patient advised to delay filling of prescription
+407601000000115,Batch prescription issued
+407621000000112,Batch prescription cancelled
+407641000000117,Batch prescription amended
+621451000000117,Prescription of medication for unlicensed indication
+739821000000118,Prescription of self-help book
+790801000006117,FP10MDA prescription
+853611000006115,Prescription excemption cert.
+923281000006115,Preg. prescription exempt adv.
+940391000006117,Prescription by supplementary prescriber
+980851000006112,Medication prescription
+981821000006110,Inappropriate use of over the counter/prescription medications
+1008841000006117,Delayed use of prescription advised
+1157631000000118,Intentional overdose of prescription only medication
+1539121000006118,Controlled drug prescription issued for more than 30 days supply
+1573161000006113,FP92A - prescription exempt certificate
+1653891000006118,Prescription of unlicensed medication
+1696291000006119,Prescription by community pharmacist
+1707401000006116,GDS claim - issue of prescription only

@@ -1,0 +1,11 @@
+medcodeid,direct_patient_contact_term,direct_patient_contact_emis_code_category
+14857341000006110,Email received from patient,"Administration, documents and attachments"
+8087971000006111,Short message service text message received from patient,"Administration, documents and attachments"
+8087991000006112,SMS (short message service) text message received from patient,"Administration, documents and attachments"
+405042019,Letter encounter from patient,"Administration, documents and attachments"
+241731000006112,Patient-initiated encounter,"Administration, documents and attachments"
+1780459015,E-mail received from patient,"Administration, documents and attachments"
+63381000000118,Telephone call from a patient,"Administration, documents and attachments"
+63421000000110,Mail from patient,"Administration, documents and attachments"
+494431000000117,SMS text message received from patient,"Administration, documents and attachments"
+1566331000006115,SMS message received from patient,"Administration, documents and attachments"

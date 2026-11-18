@@ -1,0 +1,774 @@
+medcodeid,screening_term,screening_emis_code_category,screening_flag,screening_borderline,screening_programme,screening_confidence,screening_rule
+1873821000006112,6-8 week physical examination (heart) - problem identified,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873921000006115,6-8 week physical examination (testes) - problem identified,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873931000006117,6-8 week physical examination (testes) - problem suspected,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873851000006115,6-8 week physical examination result (eyes),"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873891000006114,6-8 week physical examination result (eyes) - not examined,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873871000006113,6-8 week physical examination result (eyes) - problem identified,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873881000006111,6-8 week physical examination result (eyes) - problem suspected,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873861000006118,6-8 week physical examination result (eyes) - satisfactory,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873801000006119,6-8 week physical examination result (heart),"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873841000006117,6-8 week physical examination result (heart) - not examined,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873831000006110,6-8 week physical examination result (heart) - problem suspected,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873811000006116,6-8 week physical examination result (heart) - satisfactory,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873751000006114,6-8 week physical examination result (hips),"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873791000006115,6-8 week physical examination result (hips) - not examined,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873771000006116,6-8 week physical examination result (hips) - problem identified,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873781000006118,6-8 week physical examination result (hips) - problem suspected,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873761000006111,6-8 week physical examination result (hips) - satisfactory,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873901000006113,6-8 week physical examination result (testes),"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873941000006110,6-8 week physical examination result (testes) - not examined,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1873911000006111,6-8 week physical examination result (testes) - satisfactory,"Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),medium,NIPE2
+1813681000006118,Abdominal aortic aneurysm screen ultrasound scan report received,"Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+2497421000000113,Abdominal aortic aneurysm screening status,"Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1065711000000111,Annual cervical smear required,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1804311000006118,Attended abdominal aortic aneurysm screening,"Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+517421000000115,Bowel cancer detected by national screening programme,"Administration, documents and attachments",1,0,Bowel cancer screening,high,BOW1
+12737281000006115,Cervical HPV (human papillomavirus) screening test technical failure,"Administration, documents and attachments",1,0,Cervical screening,high,CERV1
+8005841000006119,Cervical cytology claim,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285597016,Cervical smear - 1st call,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285601016,Cervical smear - 1st recall,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285598014,Cervical smear - 2nd call,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285602011,Cervical smear - 2nd recall,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285599018,Cervical smear - 3rd call,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285603018,Cervical smear - 3rd recall,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285600015,Cervical smear - call deleted,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+29981000000113,Cervical smear - fee claim,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285604012,Cervical smear - recall delete,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+2548993012,Cervical smear - suspend recall,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+982871000006118,Cervical smear - suspend recall,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+4736841000006119,Cervical smear - third recall,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+5978251000006115,Cervical smear call,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+285623017,Cervical smear defaulter,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+543361000006112,Cervical smear disclaimer received,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+298871000000111,Cervical smear disclaimer sent,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+2549283018,Cervical smear every 12 months for life,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+2358761000000113,Cervical smear report received,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1894291000006115,Cervical smear report received,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+15621000000114,Cervical smear slide broken in transit,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+15581000000114,Cervical smear slide lost in transit,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+15641000000119,Cervical smear status,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+2548931012,Cervical smear to continue post hysterectomy,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1658281000006110,Child 7 - 9 month hearing screen questionnaire,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+548921000006114,Child hearing screening failure referred to specialist,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+548931000006112,Child hearing screening first failure,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+548941000006119,Child hearing screening second failure,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+2549901010,Diabetic patient unsuitable for digital retinal photography,"Administration, documents and attachments",1,0,Diabetic eye screening,medium,DEYE2
+1704651000006111,Diabetic retinopathy screening administrative status,"Administration, documents and attachments",1,0,Diabetic eye screening,high,DEYE1
+1704691000006117,Eligibility permanently inactive for diabetic retinopathy screening,"Administration, documents and attachments",1,0,Diabetic eye screening,high,DEYE1
+1704681000006115,Eligibility temporarily inactive for diabetic retinopathy screening,"Administration, documents and attachments",1,0,Diabetic eye screening,high,DEYE1
+730411000000115,Eligible for diabetic retinopathy screening,"Administration, documents and attachments",1,0,Diabetic eye screening,high,DEYE1
+12626211000006118,Exception reporting - cervical screening quality indicators,"Administration, documents and attachments",1,0,Cervical screening,high,CERV1
+19031000000118,FP74 - cervical cytology claim,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+7991041000006111,FP74 cervical cytology claim form,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+7991051000006113,FP74 cervical cytology claim signed,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+7982991000006111,FP74 cervical cytology claim status,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+7982331000006111,GP74 - cervical cytology claim,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1692241000006112,GP74 - cervical cytology claim,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+684121000000114,Hepatitis B screening negative,"Administration, documents and attachments",1,0,Hepatitis B screening,high,HEPB1
+1680671000006119,Hepatitis B screening negative - enhanced services admin,"Administration, documents and attachments",1,0,Hepatitis B screening,high,HEPB1
+669601000000113,Hepatitis B screening positive,"Administration, documents and attachments",1,0,Hepatitis B screening,high,HEPB1
+683361000000118,Hepatitis C screening negative,"Administration, documents and attachments",1,0,Hepatitis C screening,high,HEPC1
+1680631000006117,Hepatitis C screening negative - enhanced services admin,"Administration, documents and attachments",1,0,Hepatitis C screening,high,HEPC1
+683911000000119,Hepatitis C screening positive,"Administration, documents and attachments",1,0,Hepatitis C screening,high,HEPC1
+1680661000006114,Hepatitis C screening positive - enhanced services admin,"Administration, documents and attachments",1,0,Hepatitis C screening,high,HEPC1
+1853141000006111,In-house diabetes foot screening,"Administration, documents and attachments",1,0,Diabetic foot / neuropathy screening,high,DFT1
+2249831000000111,In-house diabetic foot screening,"Administration, documents and attachments",1,0,Diabetic foot / neuropathy screening,high,DFT1
+2249871000000113,In-house diabetic foot screening first appointment,"Administration, documents and attachments",1,0,Diabetic foot / neuropathy screening,high,DFT1
+2249951000000114,In-house diabetic foot screening follow-up appointment,"Administration, documents and attachments",1,0,Diabetic foot / neuropathy screening,high,DFT1
+1788031000006118,Inadequate cervical smear taken outside the practice,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+317231000000116,Informed consent for cervical smear given,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1780321000006115,Informed consent for cervical smear given,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1967471000006115,"NHS abdominal aortic aneurysm screening programme initial screening incomplete, contact abandoned","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967491000006119,"NHS abdominal aortic aneurysm screening programme initial screening incomplete, previous abdominal aortic aneurysm surgery","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967501000006110,"NHS abdominal aortic aneurysm screening programme initial screening incomplete, previous imaging shows no abdominal aortic aneurysm","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967481000006117,"NHS abdominal aortic aneurysm screening programme initial screening incomplete, previously diagnosed abdominal aortic aneurysm","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967531000006119,"NHS abdominal aortic aneurysm screening programme initial screening shows abdominal aortic aneurysm, placed on surveillance programme","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967541000006112,"NHS abdominal aortic aneurysm screening programme initial screening shows large abdominal aortic aneurysm, referred to vascular service","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+8363561000006118,"NHS abdominal aortic aneurysm screening programme initial screening, non-visualised aorta","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967601000006111,"NHS abdominal aortic aneurysm screening programme initial screening, non-visualised aorta, referred to medical imaging","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967521000006117,"NHS abdominal aortic aneurysm screening programme initial screening, normal result","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967511000006113,"NHS abdominal aortic aneurysm screening programme initial screening, subsequent review indicates repeat scan","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967611000006114,"NHS abdominal aortic aneurysm screening programme screening outcome, non-visualised aorta","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967561000006111,"NHS abdominal aortic aneurysm screening programme surveillance screening incomplete, contact abandoned","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967581000006118,"NHS abdominal aortic aneurysm screening programme surveillance screening, requires regular repeat surveillance scan","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1967591000006115,"NHS abdominal aortic aneurysm screening programme surveillance screening, subsequent review indicates repeat scan","Administration, documents and attachments",1,0,Abdominal aortic aneurysm screening,high,AAA1
+8368251000006111,"NIPE (Newborn and Infant Physical Examination) Screening Programme, eye examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8368231000006116,"NIPE (Newborn and Infant Physical Examination) Screening Programme, heart examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8365361000006112,"NIPE (Newborn and Infant Physical Examination) Screening Programme, hip examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8368271000006118,"NIPE (Newborn and Infant Physical Examination) Screening Programme, testis examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1138891000000116,Never had cervical smear,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1967881000006115,"Newborn and Infant Physical Examination Screening Programme, eye examination done, bilateral abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967891000006117,"Newborn and Infant Physical Examination Screening Programme, eye examination done, bilateral abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967921000006111,"Newborn and Infant Physical Examination Screening Programme, eye examination done, left abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967931000006114,"Newborn and Infant Physical Examination Screening Programme, eye examination done, left abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967861000006113,"Newborn and Infant Physical Examination Screening Programme, eye examination done, no abnormality and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967871000006118,"Newborn and Infant Physical Examination Screening Programme, eye examination done, no abnormality with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967911000006115,"Newborn and Infant Physical Examination Screening Programme, eye examination done, right abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967901000006118,"Newborn and Infant Physical Examination Screening Programme, eye examination done, right abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967851000006111,"Newborn and Infant Physical Examination Screening Programme, eye examination incomplete","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967831000006116,"Newborn and Infant Physical Examination Screening Programme, eye examination not done","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967821000006119,"Newborn and Infant Physical Examination Screening Programme, eye examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967791000006111,"Newborn and Infant Physical Examination Screening Programme, heart examination done, abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967781000006113,"Newborn and Infant Physical Examination Screening Programme, heart examination done, abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967761000006115,"Newborn and Infant Physical Examination Screening Programme, heart examination done, no abnormality and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967771000006110,"Newborn and Infant Physical Examination Screening Programme, heart examination done, no abnormality with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967811000006110,"Newborn and Infant Physical Examination Screening Programme, heart examination incomplete","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967751000006117,"Newborn and Infant Physical Examination Screening Programme, heart examination not done","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967741000006119,"Newborn and Infant Physical Examination Screening Programme, heart examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967711000006118,"Newborn and Infant Physical Examination Screening Programme, hip examination done, bilateral abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967631000006115,"Newborn and Infant Physical Examination Screening Programme, hip examination done, bilateral abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967731000006112,"Newborn and Infant Physical Examination Screening Programme, hip examination done, left abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967721000006114,"Newborn and Infant Physical Examination Screening Programme, hip examination done, left abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967641000006113,"Newborn and Infant Physical Examination Screening Programme, hip examination done, no abnormality and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967651000006110,"Newborn and Infant Physical Examination Screening Programme, hip examination done, no abnormality with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967701000006116,"Newborn and Infant Physical Examination Screening Programme, hip examination done, right abnormality suspected and no risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967661000006112,"Newborn and Infant Physical Examination Screening Programme, hip examination done, right abnormality suspected with risk factor","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967691000006116,"Newborn and Infant Physical Examination Screening Programme, hip examination incomplete","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967671000006117,"Newborn and Infant Physical Examination Screening Programme, hip examination not done","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967621000006118,"Newborn and Infant Physical Examination Screening Programme, hip examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967981000006110,"Newborn and Infant Physical Examination Screening Programme, testis examination done, bilateral abnormality suspected","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1968011000006117,"Newborn and Infant Physical Examination Screening Programme, testis examination done, left abnormality suspected","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967991000006113,"Newborn and Infant Physical Examination Screening Programme, testis examination done, no abnormality","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1968001000006115,"Newborn and Infant Physical Examination Screening Programme, testis examination done, right abnormality suspected","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967971000006112,"Newborn and Infant Physical Examination Screening Programme, testis examination incomplete","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967951000006119,"Newborn and Infant Physical Examination Screening Programme, testis examination not done","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1967941000006116,"Newborn and Infant Physical Examination Screening Programme, testis examination status","Administration, documents and attachments",1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+1874441000006118,"Newborn blood spot (CF) not suspected,other disorder follow up","Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874521000006112,"Newborn blood spot (CHT) not suspected,other disorder follow up","Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874601000006118,"Newborn blood spot (MCADD) not suspected,other disorder followup","Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874251000006117,"Newborn blood spot (PKU) not suspected,other disorder follow up","Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874351000006111,"Newborn blood spot (SCD) not suspected,other disorder follow up","Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874471000006114,Newborn blood spot outcome status (congenital hypothyroidism),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+537311000000112,Newborn blood spot screening programme - cystic fibrosis not screened for or screening incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1869761000006116,Newborn blood spot screening programme - not screened for or screening incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1869741000006115,Newborn blood spot screening programme - not suspected and other disorders follow up required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1869721000006110,Newborn blood spot screening programme - repeat screening with further sample required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+571721000000114,Newborn blood spot screening programme - sickle cell not screened for or screening incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1869901000006119,Newborn blood spot screening programme incomplete as outside of area of current screening coverage,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+536001000000114,Newborn blood spot screening status,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1834751000006114,Newborn blood spot screening status,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874431000006111,Newborn blood spot test (CF) - carrier,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874421000006113,Newborn blood spot test (CF) - condition not suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874451000006116,Newborn blood spot test (CF) - condition suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874411000006117,Newborn blood spot test (CF) - further sample required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874391000006117,Newborn blood spot test (CF) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874461000006119,Newborn blood spot test (CF) - not screened or incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874511000006116,Newborn blood spot test (CHT) - condition not suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1875841000006116,Newborn blood spot test (CHT) - condition suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874481000006112,Newborn blood spot test (CHT) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874531000006110,Newborn blood spot test (CHT) - not screened or incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874501000006119,Newborn blood spot test (CHT) - repeat / further sample required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282551000006115,Newborn blood spot test (Glutaric aciduria type 1) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282571000006113,Newborn blood spot test (Isovaleric aciduria) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874591000006114,Newborn blood spot test (MCADD) - carrier,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874581000006111,Newborn blood spot test (MCADD) - condition not suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874611000006115,Newborn blood spot test (MCADD) - condition suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874571000006113,Newborn blood spot test (MCADD) - further sample required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874551000006115,Newborn blood spot test (MCADD) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874621000006111,Newborn blood spot test (MCADD) - not screened or incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282531000006110,Newborn blood spot test (MSUD) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874241000006119,Newborn blood spot test (PKU) - condition not suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874261000006115,Newborn blood spot test (PKU) - condition suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874211000006118,Newborn blood spot test (PKU) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874271000006110,Newborn blood spot test (PKU) - not screened or incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874231000006112,Newborn blood spot test (PKU) - repeat / further sample required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874331000006116,Newborn blood spot test (SCD) - carrier,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874341000006114,Newborn blood spot test (SCD) - carrier of other haemoglobin,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874321000006119,Newborn blood spot test (SCD) - condition not suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874361000006113,Newborn blood spot test (SCD) - condition suspected,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874311000006110,Newborn blood spot test (SCD) - further sample required,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874291000006111,Newborn blood spot test (SCD) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874371000006118,Newborn blood spot test (SCD) - not screened or incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282541000006117,Newborn blood spot test outcome status (Glutaric aciduria type 1),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282561000006118,Newborn blood spot test outcome status (Isovaleric aciduria),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874541000006117,Newborn blood spot test outcome status (MCADD),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282521000006112,Newborn blood spot test outcome status (MSUD),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874381000006115,Newborn blood spot test outcome status (cystic fibrosis),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282501000006119,Newborn blood spot test outcome status (homocystinuria),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+14282511000006116,Newborn blood spot test outcome status (homocystinuria) - laboratory received specimen,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874201000006116,Newborn blood spot test outcome status (phenylketonuria),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1874281000006113,Newborn blood spot test outcome status (sickle cell disease),"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS1
+1873731000006119,Newborn hearing audiology diagnostic testing in progress,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1873741000006112,Newborn hearing audiology diagnostic testing pending,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1873691000006110,Newborn hearing audiology outcome,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1873711000006113,Newborn hearing audiology test confirmed bilateral hearing loss,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1873721000006117,Newborn hearing audiology test confirmed unilateral hearing loss,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1873701000006110,Newborn hearing audiology test: hearing satisfactory,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1913951000006111,Newborn hearing screening (Scot) left ear: incomplete,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1913911000006110,Newborn hearing screening (Scot) left ear: pass,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1913921000006119,Newborn hearing screening (Scot) left ear: refer,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1913901000006112,Newborn hearing screening (Scot) right ear: incomplete,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1915001000006110,Newborn hearing screening (Scot) right ear: pass,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1913861000006117,Newborn hearing screening (Scot) right ear: refer,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1914951000006114,Newborn hearing screening outcome (NHS Scotland),"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755631000006110,"Newborn hearing screening programme completed, clear response no follow-up required","Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755621000006112,"Newborn hearing screening programme completed, clear response targeted follow-up required","Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755611000006116,"Newborn hearing screening programme completed, no clear response in both ears follow-up required","Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755601000006119,"Newborn hearing screening programme completed, no clear response in one ear, follow-up required","Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+480121000000117,Newborn hearing screening programme contraindicated,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755581000006112,Newborn hearing screening programme incomplete as baby deceased,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755571000006114,Newborn hearing screening programme incomplete as baby unsettled,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755541000006118,Newborn hearing screening programme incomplete as lack of service capacity,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755531000006111,Newborn hearing screening programme incomplete as no current contact details,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755521000006113,Newborn hearing screening programme incomplete as outside of area of current screening coverage,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755511000006117,Newborn hearing screening programme incomplete as outside screening age range,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755501000006115,Newborn hearing screening programme incomplete as screening equipment malfunction,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755491000006111,Newborn hearing screening programme incomplete as screening equipment not available,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+1755481000006113,Newborn hearing screening programme incomplete as withdrew consent during screening,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+474301000000110,Newborn hearing screening programme outcome,"Administration, documents and attachments",1,0,Newborn hearing screening,high,NHR1
+2548500011,No cervical smear required - no uterus,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1673281000000110,Not eligible for bowel cancer screening programme,"Administration, documents and attachments",1,0,Bowel cancer screening,high,BOW1
+1484952016,Place cervical smear taken,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+12722501000006114,Place cervical smear taken,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+1897881000006111,Return to cervical smear recall - FHSA informed,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+2007311000006114,SRH care activity - cervical screening,"Administration, documents and attachments",1,0,Cervical screening,high,CERV1
+2281171000000110,School entrant hearing screening incomplete,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+1955521000006118,School entrant hearing screening left ear - fail,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+1955511000006114,School entrant hearing screening left ear - pass,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+1955481000006118,School entrant hearing screening right ear - fail,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+1955471000006116,School entrant hearing screening right ear - pass,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+2271611000000116,School entrant hearing screening status,"Administration, documents and attachments",1,0,Childhood hearing screening,high,CHR1
+8096121000006110,Sickle cell not screened for or screening incomplete,"Administration, documents and attachments",1,0,Newborn blood spot screening,high,NBS2
+1576561000006114,Tele. Reminder for Cervical Neoplasia Screen,"Administration, documents and attachments",1,0,Cervical screening,high,CERV1
+1576571000006119,Tele. Reminder for Cervical Smear Due,"Administration, documents and attachments",1,0,Cervical screening,high,CERV2
+2159958014,Under care of diabetic foot screener,"Administration, documents and attachments",1,0,Diabetic foot / neuropathy screening,high,DFT1
+2159957016,Under care of retinal screener,"Administration, documents and attachments",1,0,Diabetic eye screening,high,DEYE1
+1576631000006118,Verbal Reminder for Cervical Neoplasia Screen,"Administration, documents and attachments",1,0,Cervical screening,high,CERV1
+1576661000006110,Verbal Reminder for Cervical Neoplasia Screen,"Administration, documents and attachments",1,0,Cervical screening,high,CERV1
+15111051000006111,Acetylcarnitine molar concentration in blood spot,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2478539016,Blood spot C14:1 carnitine (tetradecenoylcarnitine),Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2478541015,Blood spot C16 carnitine (palmitoylcarnitine),Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2478533015,Blood spot C3 carnitine (propionylcarnitine),Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2478534014,Blood spot C4 carnitine (butyrylcarnitine),Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2406381000000116,Blood spot C5 carnitine (glutarylcarnitine) level,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2478537019,Blood spot C6 carnitine (hexanoylcarnitine),Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+964511000006116,Blood spot C8 carnitine (octanoylcarnitine),Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+1780303012,Blood spot TSH (thyroid stimulating hormone) level,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+1849651000006119,Blood spot TSH level abnormal,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+1849641000006116,Blood spot TSH level normal,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2137041000000118,Blood spot acetyl carnitine,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2474475013,Blood spot acyl carnitine profile,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+1485474011,Blood spot acylcarnitine,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2127901000000115,Blood spot free carnitine,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2454311000000110,Blood spot glutaric aciduria type 1 screening test,Biochemistry,1,0,Newborn blood spot screening,high,NBS1
+2454331000000119,Blood spot homocystinuria screening test,Biochemistry,1,0,Newborn blood spot screening,high,NBS1
+2407381000000119,Blood spot immunoreactive trypsin level,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2454321000000116,Blood spot isovaleric acidaemia screening test,Biochemistry,1,0,Newborn blood spot screening,high,NBS1
+2478535010,Blood spot isovalerylcarnitine,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2406331000000115,Blood spot leucine level,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2406611000000116,Blood spot maple syrup urine disease screening test,Biochemistry,1,0,Newborn blood spot screening,high,NBS1
+2406281000000113,Blood spot methionine level,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+518511000006117,Blood spot phenylalanine,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+5519831000006118,Blood spot phenylalanine level,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+5519821000006116,Blood spot phenylalanine measurement,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2311021000000119,Completion of newborn blood spot screening card,Biochemistry,1,0,Newborn blood spot screening,high,NBS1
+459591017,Downs screening test,Biochemistry,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+1485243012,Inborn error of metabolism screening test,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2719361000006116,Inborn errors of metabolism screen,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+2692286013,Newborn blood spot screening,Biochemistry,1,0,Newborn blood spot screening,high,NBS1
+15130221000006113,Phenylalanine molar concentration in blood spot,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+15112721000006111,Propionylcarnitine molar concentration in blood spot,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+15130451000006115,TSH (thyroid stimulating hormone) molar concentration in blood spot,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+15130511000006115,Tyrosine molar concentration in blood spot,Biochemistry,1,0,Newborn blood spot screening,medium,NBS3
+1222545019,Abnormal cervical Papanicolaou smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+5984631000006110,Abnormal cervical smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+753161000000117,Advice given about bowel cancer screening programme,"Conditions, operations and procedures",1,0,Bowel cancer screening,high,BOW1
+1753161000006112,Antenatal screening shows carrier of significant haemoglobinopathy including sickle cell or thalassaemia,"Conditions, operations and procedures",1,0,Sickle cell & thalassaemia screening,high,SCT1
+1701001000006117,Antenatal screening shows non significant carrier of sickle cell or thalassaemia,"Conditions, operations and procedures",1,0,Sickle cell & thalassaemia screening,high,SCT1
+1701011000006119,Antenatal screening shows significant carrier of sickle cell or thalassaemia,"Conditions, operations and procedures",1,0,Sickle cell & thalassaemia screening,high,SCT1
+2444421000000114,Blood spot alpha-glucosidase level,"Conditions, operations and procedures",1,0,Newborn blood spot screening,medium,NBS3
+2549630018,Cervical cytology sample sent to laboratory,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+411104011,Cervical smear biopsy taken,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+12055431000006114,Cervical smear biopsy taken,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+304221000000112,Cervical smear information leaflet given,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+1227826012,Cervical smear taken,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+14933951000006113,Community Pharmacy Hepatitis C Antibody Testing Service,"Conditions, operations and procedures",1,0,Hepatitis C screening,medium,HEPC2
+14920061000006115,Diabetic digital retinal screening image quality inadequate for grading,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920151000006118,Diabetic digital retinal screening image quality of bilateral eyes inadequate for grading,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920141000006115,Diabetic digital retinal screening image quality of bilateral eyes ungradable,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920111000006119,Diabetic digital retinal screening image quality of left eye inadequate for grading,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920101000006117,Diabetic digital retinal screening image quality of left eye ungradable,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920121000006110,Diabetic digital retinal screening image quality of right eye ungradable,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920051000006117,Diabetic digital retinal screening image quality ungradable,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+1707141000000117,Down's syndrome antenatal screening information leaflet given,"Conditions, operations and procedures",1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+8238681000006119,Downs syndrome antenatal screening information leaflet given,"Conditions, operations and procedures",1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+1717451000006119,Guthrie card for neonatal blood spot,"Conditions, operations and procedures",1,0,Newborn blood spot screening,high,NBS1
+2277731000000112,H/O abnormal cervical smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+9322181000006116,History of total hysterectomy without abnormal cervical Papanicolaou smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+14920041000006119,NHS (National Health Service) DES (diabetic eye screening) programme,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+14920031000006112,NHS diabetic eye screening programme,"Conditions, operations and procedures",1,0,Diabetic eye screening,high,DEYE1
+1133151000000114,Newborn blood spot specimen received,"Conditions, operations and procedures",1,0,Newborn blood spot screening,high,NBS1
+1882241000006119,Patient advised to have cervical smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+1868351000006110,Provision of written information about bowel cancer screening programme,"Conditions, operations and procedures",1,0,Bowel cancer screening,high,BOW1
+7230081000006119,Sampling of cervix for Papanicolaou smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+544381000006117,Sampling of cervix for Papanicolaou smear done,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+461285018,Screening for sickle cell disease,"Conditions, operations and procedures",1,0,Sickle cell & thalassaemia screening,high,SCT1
+317867014,[D]Nonspecific abnormal Papanicolaou cervical smear,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+317870013,[D]Nonspecific abnormal Papanicolaou cervical smear NOS,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+1761801000006111,[SHHAPT] Cervical cytology done,"Conditions, operations and procedures",1,0,Cervical screening,high,CERV2
+461221013,[V]Screening for other arthropod-borne viral disease,"Conditions, operations and procedures",1,0,Arboviral disease screening,high,GEN3
+12460961000006119,[V]Screening for other arthropod-borne viral disease,"Conditions, operations and procedures",1,0,Arboviral disease screening,high,GEN3
+461277010,[V]Screening for other inborn errors of metabolism,"Conditions, operations and procedures",1,0,Newborn blood spot screening,medium,NBS3
+12461001000006111,[V]Screening for other inborn errors of metabolism,"Conditions, operations and procedures",1,0,Newborn blood spot screening,medium,NBS3
+1227835017,[V]Screening for sickle cell disease,"Conditions, operations and procedures",1,0,Sickle cell & thalassaemia screening,high,SCT1
+1227834018,[V]Screening for sickle cell trait,"Conditions, operations and procedures",1,0,Sickle cell & thalassaemia screening,high,SCT1
+363331000006114,[X]Antenatal screening for fetal growth retardation using ultrasonics and other physical methods,"Conditions, operations and procedures",1,0,Antenatal: fetal anomaly (ultrasound) screening,high,AAN1
+363341000006116,[X]Antenatal screening for malformations using ultrasonics and other physical methods,"Conditions, operations and procedures",1,0,Antenatal: fetal anomaly (ultrasound) screening,high,AAN1
+12462891000006118,[X]Antenatal screening for malformations using ultrasonics and other physical methods,"Conditions, operations and procedures",1,0,Antenatal: fetal anomaly (ultrasound) screening,high,AAN1
+15320411000006111,Abnormal cervical Papanicolaou smear with human papillomavirus deoxyribonucleic acid detected,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7253351000006115,Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid test,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7245691000006116,Atypical endocervical cells on cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7247281000006114,Atypical glandular cells on cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7245561000006111,Atypical squamous cells of undetermined significance on cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7245571000006116,Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544411000006119,Cannot exclude glandular neoplasia on cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7227641000006119,Cervical Papanicolaou smear positive for malignant neoplasm,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2548508016,Cervical cytology test,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261567011,Cervical smear - actinomyces,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261573012,Cervical smear - action needed,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544441000006115,Cervical smear - atrophic changes,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2272351000000118,Cervical smear - borderline change in endocervical cells,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2272311000000117,Cervical smear - borderline change in squamous cells,Cytology/Histology,1,0,Cervical screening,high,CERV2
+543371000006117,Cervical smear - borderline changes,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261555014,Cervical smear - candida,Cytology/Histology,1,0,Cervical screening,high,CERV2
+4613831000006119,Cervical smear - cervical biopsy needed,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544261000006117,Cervical smear - endocervical cells absent,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544271000006112,Cervical smear - endocervical cells present,Cytology/Histology,1,0,Cervical screening,high,CERV2
+1884201000006111,Cervical smear - features of endocervical type glandular neoplasia,Cytology/Histology,1,0,Cervical screening,high,CERV2
+1884211000006114,Cervical smear - features of non-cervical type glandular neoplasia,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261568018,Cervical smear - gardnerella,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261566019,Cervical smear - herpes,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2286541000000116,Cervical smear - high grade dyskaryosis (moderate),Cytology/Histology,1,0,Cervical screening,high,CERV2
+2286581000000112,Cervical smear - high grade dyskaryosis (severe),Cytology/Histology,1,0,Cervical screening,high,CERV2
+1884191000006113,Cervical smear - high grade dyskaryosis with features of invasive squamous carcinoma,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2287791000000118,Cervical smear - human papillomavirus negative,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2287831000000113,Cervical smear - human papillomavirus positive,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544451000006118,Cervical smear - inadequate specimen,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544151000006110,Cervical smear - inflam. NOS,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544161000006112,Cervical smear - inflammatory change,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544421000006110,Cervical smear - koilocytosis,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2272391000000114,Cervical smear - low grade dyskaryosis,Cytology/Histology,1,0,Cervical screening,high,CERV2
+218401000000118,Cervical smear - mild dyskaryosis,Cytology/Histology,1,0,Cervical screening,high,CERV2
+454364018,Cervical smear - mild inflammation,Cytology/Histology,1,0,Cervical screening,high,CERV2
+219781000000113,Cervical smear - moderate dyskaryosis,Cytology/Histology,1,0,Cervical screening,high,CERV2
+454365017,Cervical smear - moderate inflammation,Cytology/Histology,1,0,Cervical screening,high,CERV2
+218381000000118,Cervical smear - negative,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544391000006119,Cervical smear - no inflammation,Cytology/Histology,1,0,Cervical screening,high,CERV2
+543401000006119,Cervical smear - severe dyskaryosis,Cytology/Histology,1,0,Cervical screening,high,CERV2
+544401000006117,Cervical smear - severe inflammation,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261554013,Cervical smear - trichomonas,Cytology/Histology,1,0,Cervical screening,high,CERV2
+219791000000110,Cervical smear - viral inflammation unspecified,Cytology/Histology,1,0,Cervical screening,high,CERV2
+404621013,Cervical smear - wart virus,Cytology/Histology,1,0,Cervical screening,high,CERV2
+856701000006116,Cervical smear adequacy,Cytology/Histology,1,0,Cervical screening,high,CERV2
+856901000006118,Cervical smear adequate,Cytology/Histology,1,0,Cervical screening,high,CERV2
+854551000006118,Cervical smear cyt. report,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2121551000000115,Cervical smear epithelial cells absent,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2118621000000111,Cervical smear pus cells present,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2118661000000115,Cervical smear red blood cells present,Cytology/Histology,1,0,Cervical screening,high,CERV2
+1780471000006110,Cervical smear rejected by lab.: taken before recall period,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2265251000000113,Cervical smear repeat at 24 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+405161000000115,Cervical smear repeat at 36 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2112941000000111,Cervical smear repeat at 48 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+405181000000112,Cervical smear repeat at 60 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+404614013,Cervical smear result,Cytology/Histology,1,0,Cervical screening,high,CERV2
+404619015,Cervical smear result NOS,Cytology/Histology,1,0,Cervical screening,high,CERV2
+5585431000006115,Cervical smear sample,Cytology/Histology,1,0,Cervical screening,high,CERV2
+855421000006112,Cervical smear specific infection,Cytology/Histology,1,0,Cervical screening,high,CERV2
+14851041000006115,Cervical smear specimen,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2474274010,Cervical smear transformation zone cells absent,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2474273016,Cervical smear transformation zone cells present,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261584017,Cervical smear: action,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261581013,Cervical smear: colposcopy needed,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261575017,Cervical smear: repeat 1 month,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261580014,Cervical smear: repeat 12 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261576016,Cervical smear: repeat 3 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261577013,Cervical smear: repeat 4 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261578015,Cervical smear: repeat 6 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+261579011,Cervical smear: repeat 9 months,Cytology/Histology,1,0,Cervical screening,high,CERV2
+605691000006111,Cervical smear: repeat after treatment,Cytology/Histology,1,0,Cervical screening,high,CERV2
+4613841000006112,Cervical smear: uterine curettage needed,Cytology/Histology,1,0,Cervical screening,high,CERV2
+605641000006119,Cx. smear: repeat 3 years,Cytology/Histology,1,0,Cervical screening,high,CERV2
+605711000006114,Cx. smear:cervical biopsy need,Cytology/Histology,1,0,Cervical screening,high,CERV2
+8031081000006113,Cytological evidence of malignancy on cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+373597014,Dyskaryosis on cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+7218211000006113,Dysplasia on cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+828931000006114,HPV changes: cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+822381000006111,Herpes: cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+8019801000006117,High grade squamous intraepithelial lesion on cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+8019791000006118,Low grade squamous intraepithelial lesion on cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+2791206012,Microscopic examination of cervical Papanicolaou smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+14454201000006115,Nuclear abnormality in cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+1696191000006111,Number of years annual cervical smears recommended,Cytology/Histology,1,0,Cervical screening,high,CERV2
+543411000006116,Severe dyskaryosis on cervical smear cannot exclude invasive carcinoma,Cytology/Histology,1,0,Cervical screening,high,CERV2
+419023016,Smear NAD - no endocervical cells,Cytology/Histology,1,0,Cervical screening,high,CERV2
+218391000000116,Smear NAD: no endocervic cells,Cytology/Histology,1,0,Cervical screening,high,CERV2
+5647421000006112,Smear: no abnormality detected - no endocervical cells,Cytology/Histology,1,0,Cervical screening,high,CERV2
+537191000000118,Too soon after blood transfusion for reliable screening,Cytology/Histology,1,0,Newborn blood spot screening,high,NBS2
+5576861000006110,Viral changes on cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+317869012,[D] Koilocytosis - cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+317868016,[D]Dyskaryotic cervical smear,Cytology/Histology,1,0,Cervical screening,high,CERV2
+1761431000006117,[SHHAPT] Cervical cytology - major abnormality,Cytology/Histology,1,0,Cervical screening,high,CERV2
+1761411000006111,[SHHAPT] Cervical cytology - minor abnormality,Cytology/Histology,1,0,Cervical screening,high,CERV2
+6027351000006118,Abnormal results of hearing screening test,Diagnostics,1,0,Childhood hearing screening,high,CHR1
+1675511000006113,Diabetes mellitus screening risk score,Diagnostics,1,0,Diabetes mellitus screening,high,DIAB1
+458383019,Sickle cell disease screening test,Haematology,1,0,Sickle cell & thalassaemia screening,high,SCT1
+461281010,[V]Screening for disorders of blood and blood-forming organ,Haematology,1,0,Blood disorder screening (unspecified),high,GEN2
+348701000006116,[V]Screening for unspecified disorder of blood or blood-forming organ,Haematology,1,0,Blood disorder screening (unspecified),high,GEN2
+2116031000000119,Abdominal aortic aneurysm screening,"Health management, screening and monitoring",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1701121000006111,Antenatal screening shows iron deficiency or possible non significant alpha thalassaemia,"Health management, screening and monitoring",1,0,Sickle cell & thalassaemia screening,high,SCT1
+265323017,Aortic aneurysm screening,"Health management, screening and monitoring",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1660481000000112,Aortic aneurysm screening abnormal,"Health management, screening and monitoring",1,0,Abdominal aortic aneurysm screening,high,AAA1
+1660521000000112,Aortic aneurysm screening normal,"Health management, screening and monitoring",1,0,Abdominal aortic aneurysm screening,high,AAA1
+2280211000000117,Bowel Cancer Screening Programme bowel scope screening test,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1626201000006116,Bowel cancer screening - negative FOBs,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1626191000006119,Bowel cancer screening - positive FOBs,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+495731000000114,Bowel cancer screening programme,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1701051000006118,Bowel cancer screening programme faecal occult blood test technical failure,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1701091000006112,Bowel cancer screening programme faecal occult blood testing incomplete participation,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1701041000006115,Bowel cancer screening programme faecal occult blood testing kit spoilt,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+12119451000006116,Bowel cancer screening programme liquid faecal immunochemical test abnormal,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+12119441000006118,Bowel cancer screening programme liquid faecal immunochemical test normal,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+12119471000006114,Bowel cancer screening programme liquid faecal immunochemical test sample rejected,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+12119461000006119,Bowel cancer screening programme liquid faecal immunochemical test technical failure,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+2280371000000117,Bowel scope (flexible sigmoidoscopy) screen: cancer detected,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1924911000006116,Bowel scope (flexible sigmoidoscopy) screen: incidental findings,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1884881000006118,Bowel scope (flexible sigmoidoscopy) screen: minor polyps removed - no follow up required,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1884871000006116,Bowel scope (flexible sigmoidoscopy) screen: normal - no further action,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1884921000006114,Bowel scope (flexible sigmoidoscopy) screen: other abnormality detected,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1884891000006115,Bowel scope (flexible sigmoidoscopy) screen: referred for colonoscopy,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1884911000006118,Bowel scope (flexible sigmoidoscopy) screen: suspected cancer detected,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1884961000006115,Bowel scope (flexible-sigmoidoscopy) screening: attended but not screened,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+515001000000110,Bowel screening polyp surveillance,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+543811000006118,Ca cervix - screening done,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+265208012,Ca cervix screen-no result yet,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531751000006113,Ca cervix screening - not reached,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531781000006117,Ca cervix screening - up-to-date,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531791000006119,Ca cervix screening - wanted,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531811000006115,Ca cervix screening abnormal,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531721000006116,Ca cervix screening and fee claim,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531821000006111,Ca cervix screening normal,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+5192631000006117,Ca cervix screening status,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+5505981000006113,Cancer cervix - screening done,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+4641211000006116,Cancer cervix screen-no result yet,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+4641191000006117,Cancer cervix screening - not reached,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+4641171000006118,Cancer cervix screening - up-to-date,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+4641131000006116,Cancer cervix screening - wanted,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+4641251000006115,Cancer cervix screening and fee claim,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+531831000006114,Cancer cervix screening status,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+14440351000006119,Cervical cancer screening done,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+543541000006116,Cervical cytology examination,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+543551000006119,Cervical cytology screening,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+265193019,Cervical neoplasia screening,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+265213011,Cervical smear due,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+411959014,Cervical smear non-responder,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+1484962011,Cervical smear overdue,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+1849631000006114,Cervical smear recall ceased due to age,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+544331000006118,Cervical smear screen,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+265212018,Cervical smear status unknown,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+1944221000006119,"Congenital hypothyroidism screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944251000006111,"Congenital hypothyroidism screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944241000006114,"Congenital hypothyroidism screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944061000006117,"Cystic fibrosis screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944051000006119,"Cystic fibrosis screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944031000006114,"Cystic fibrosis screening,sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+616341000006117,Diabetes mellitus screening,"Health management, screening and monitoring",1,0,Diabetes mellitus screening,high,DIAB1
+856531000006119,Diabetic - GP eye check,"Health management, screening and monitoring",1,0,Diabetic eye screening,medium,DEYE2
+856551000006114,Diabetic - hospital eye check,"Health management, screening and monitoring",1,0,Diabetic eye screening,medium,DEYE2
+1780386019,Diabetic foot examination,"Health management, screening and monitoring",1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1960611000006113,Diabetic foot examination - action required,"Health management, screening and monitoring",1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1960621000006117,Diabetic foot examination - no action required,"Health management, screening and monitoring",1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1488405010,Diabetic foot risk assessment,"Health management, screening and monitoring",1,0,Diabetic foot / neuropathy screening,medium,DFT2
+692951000000111,Diabetic foot screen,"Health management, screening and monitoring",1,0,Diabetic foot / neuropathy screening,high,DFT1
+1780286017,Diabetic peripheral neuropathy screening,"Health management, screening and monitoring",1,0,Diabetic foot / neuropathy screening,high,DFT1
+1804191000006114,Diabetic retinopathy screen done by optician,"Health management, screening and monitoring",1,0,Diabetic eye screening,high,DEYE1
+216201011,Diabetic retinopathy screening,"Health management, screening and monitoring",1,0,Diabetic eye screening,high,DEYE1
+4106751000006112,FOB - Faecal occult blood screening,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+4106771000006119,FOB - Fecal occult blood screening,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+4106731000006117,Faecal occult blood screen,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+4106741000006110,Faecal occult blood screening,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+4106781000006116,Fecal occult blood screen,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+264701014,Fundoscopy - diabetic check,"Health management, screening and monitoring",1,0,Diabetic eye screening,medium,DEYE2
+1945161000006117,"Glutaric aciduria type 1 screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945191000006113,"Glutaric aciduria type 1 screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945181000006110,"Glutaric aciduria type 1 screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+265162015,HIV screening,"Health management, screening and monitoring",1,0,HIV screening,high,HIV1
+4640731000006111,HIV screening test,"Health management, screening and monitoring",1,0,HIV screening,high,HIV1
+375955013,Hepatitis A antigen screening,"Health management, screening and monitoring",1,0,Hepatitis A screening,medium,HEPA1
+265164019,Hepatitis B antigen screening,"Health management, screening and monitoring",1,0,Hepatitis B screening,high,HEPB1
+4640761000006119,Hepatitis B screening,"Health management, screening and monitoring",1,0,Hepatitis B screening,high,HEPB1
+265165018,Hepatitis B screening required,"Health management, screening and monitoring",1,0,Hepatitis B screening,high,HEPB1
+2474656012,Hepatitis C screening,"Health management, screening and monitoring",1,0,Hepatitis C screening,high,HEPC1
+1944661000006111,"Homocystinuria screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944691000006115,"Homocystinuria screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944681000006118,"Homocystinuria screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944911000006119,"Isovaleric acidaemia screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944941000006115,"Isovaleric acidaemia screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944931000006113,"Isovaleric acidaemia screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+219081000000110,Large bowel neoplasm screening,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+2549581015,Liquid based cervical cytology screening,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+1943841000006111,"Maple syrup urine disease screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1943871000006115,"Maple syrup urine disease screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1943861000006110,"Maple syrup urine disease screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944411000006111,"Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944571000006115,"Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1944431000006117,"Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+677861000006117,Neoplasm screen excl. cervical,"Health management, screening and monitoring",1,0,"Cancer screening (unspecified, non-cervical)",high,GEN1
+1744941000006111,"Newborn hearg scng complt,no clear rspnse bth ears followup reqd","Health management, screening and monitoring",1,0,Newborn hearing screening,high,NHR1
+1744931000006118,"Newborn hearg scng compltd, no clear rspnse 1 ear, followup reqd","Health management, screening and monitoring",1,0,Newborn hearing screening,high,NHR1
+1744911000006112,"Newborn hearg scng prog complete,clear response no followup reqd","Health management, screening and monitoring",1,0,Newborn hearing screening,high,NHR1
+474281000000114,Newborn hearing screening,"Health management, screening and monitoring",1,0,Newborn hearing screening,high,NHR1
+1744961000006110,Newborn hearing screening programme incomplete - other reason,"Health management, screening and monitoring",1,0,Newborn hearing screening,high,NHR1
+265220016,No smear - no cervix,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+265218019,No smear-amputation of cervix,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV2
+267341000006119,OB - Occult blood screening,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+5311271000006119,Occult blood screening,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+265271019,Other inborn error screening,"Health management, screening and monitoring",1,0,Newborn blood spot screening,medium,NBS3
+2005531000006117,Patient requests BCSP faecal occult blood testing kit,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+1943741000006116,"Phenylketonuria screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1943611000006111,"Phenylketonuria screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1943601000006113,"Phenylketonuria screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+13698351000006112,"SCID (severe combined immunodeficiency) screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+646911000000117,School entrant hearing screening,"Health management, screening and monitoring",1,0,Childhood hearing screening,high,CHR1
+1955441000006112,School entrant hearing screening - left ear,"Health management, screening and monitoring",1,0,Childhood hearing screening,high,CHR1
+1955431000006119,School entrant hearing screening - right ear,"Health management, screening and monitoring",1,0,Childhood hearing screening,high,CHR1
+461259017,Screening for malignant neoplasm of cervix,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+14440341000006116,Screening for malignant neoplasm of cervix done,"Health management, screening and monitoring",1,0,Cervical screening,high,CERV1
+260511010,Screening for occult blood in faeces,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+12762071000006115,Screening for occult blood in faeces,"Health management, screening and monitoring",1,0,Bowel cancer screening,high,BOW1
+13698381000006116,"Severe combined immunodeficiency screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+13698361000006114,"Severe combined immunodeficiency screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+141151000006119,Sickle cell disease screen,"Health management, screening and monitoring",1,0,Sickle cell & thalassaemia screening,high,SCT1
+1945431000006116,"Sickle cell not screened for or screening incomplete, baby died","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945411000006110,"Sickle cell not screened for or screening incomplete, moved out of area","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945421000006119,"Sickle cell not screened for or screening incomplete, not contactable, reasonable efforts made","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945441000006114,"Sickle cell not screened for or screening incomplete, not required, previous valid result","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945401000006112,"Sickle cell not screened for or screening incomplete, over 1 year old, too old for screening","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+2422651000000111,Sickle cell screening related finding,"Health management, screening and monitoring",1,0,Sickle cell & thalassaemia screening,high,SCT1
+476186012,Sickle cell screening test,"Health management, screening and monitoring",1,0,Sickle cell & thalassaemia screening,high,SCT1
+2423491000000112,"Sickle cell screening, insufficient sample","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945351000006116,"Sickle cell screening, sample taken too soon after blood transfusion (less than 72 hours)","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+2432811000000113,"Sickle cell screening, too premature for testing","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+2423411000000115,"Sickle cell screening, too young for reliable screening","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945381000006112,"Sickle cell screening, unsuitable sample (blood quality): compressed/damaged","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945371000006114,"Sickle cell screening, unsuitable sample (blood quality): incorrect blood application","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945451000006111,"Sickle cell screening, unsuitable sample: NHS number missing/not accurately recorded","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+2432611000000114,"Sickle cell screening, unsuitable sample: damaged in transit","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945471000006118,"Sickle cell screening, unsuitable sample: date of birth not accurately matched","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945461000006113,"Sickle cell screening, unsuitable sample: date of sample missing/not accurately recorded","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945391000006110,"Sickle cell screening, unsuitable sample: day 0 and day 5 on same card","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+2432531000000119,"Sickle cell screening, unsuitable sample: expired card used","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+1945491000006117,"Sickle cell screening, unsuitable sample: more than 14 days in transit, too old for analysis","Health management, screening and monitoring",1,0,Newborn blood spot screening,high,NBS2
+8464751000006115,Syphilis screening,"Health management, screening and monitoring",1,0,Syphilis screening,high,SYPH2
+375769015,Thalassaemia screening,"Health management, screening and monitoring",1,0,Sickle cell & thalassaemia screening,high,SCT1
+1761581000006117,[SHHAPT] Full sexual health screen including HIV antibody test,"Health management, screening and monitoring",1,0,Sexual health / STI screening,high,STI1
+461270012,[V]Screening for diabetes mellitus,"Health management, screening and monitoring",1,0,Diabetes mellitus screening,high,DIAB1
+1227832019,[V]Screening for diabetes mellitus (DM),"Health management, screening and monitoring",1,0,Diabetes mellitus screening,high,DIAB1
+13697211000006115,NHS Bowel Cancer Screening Programme replacement FIT (faecal immunochemical test) kit requested,Investigation requests,1,0,Bowel cancer screening,high,BOW1
+13697221000006111,NHS Bowel Cancer Screening Programme replacement faecal blood test kit requested,Investigation requests,1,0,Bowel cancer screening,high,BOW1
+13697201000006118,NHS Bowel Cancer Screening Programme replacement faecal immunochemical test kit requested,Investigation requests,1,0,Bowel cancer screening,high,BOW1
+1805991000006111,Test request : Liquid based cervical cytology screening,Investigation requests,1,0,Cervical screening,high,CERV1
+354391000000113,Cervical cytology screening test,Microbiology,1,0,Cervical screening,high,CERV1
+1494875012,HIV (human immunodeficiency virus) screening test,Microbiology,1,0,HIV screening,high,HIV1
+458392016,Hepatitis B screening test,Microbiology,1,0,Hepatitis B screening,high,HEPB1
+1488822019,Urine screening test for diabetes,Microbiology,1,0,Diabetes mellitus screening,high,DIAB1
+2474365011,Viral hepatitis screening test,Microbiology,1,0,Viral hepatitis screening (unspecified),high,VHEP1
+435671000006117,A/N blood gp screen not done,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+435691000006116,A/N blood group screen NOS,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+436091000006119,A/N sickle cell screen NOS,Obstetrics and Birth,1,0,Sickle cell & thalassaemia screening,high,SCT1
+436101000006113,A/N sickle screen not done,Obstetrics and Birth,1,0,Sickle cell & thalassaemia screening,high,SCT1
+436111000006111,A/N syphilis screen not done,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+263256015,A/N syphilis screen-blood sent,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+1484821016,Antenatal HIV screening,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+1774941000006110,Antenatal blood group antibody screen,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+485401000006116,Antenatal blood group screening,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+435681000006119,Antenatal blood group screening done,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+485581000006112,Antenatal sickle cell screening,Obstetrics and Birth,1,0,Sickle cell & thalassaemia screening,high,SCT1
+436081000006117,Antenatal sickle cell screening done,Obstetrics and Birth,1,0,Sickle cell & thalassaemia screening,high,SCT1
+485601000006119,Antenatal syphilis screen NOS,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+4626081000006111,Antenatal syphilis screen-blood sent,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+485591000006110,Antenatal syphilis screening,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+628341000006110,Down's screening - blood sent,Obstetrics and Birth,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+628311000006111,Down's screening - blood test,Obstetrics and Birth,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+5192271000006116,Down's screening status,Obstetrics and Birth,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+628351000006112,Downs screening blood test NOS,Obstetrics and Birth,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+168041000006115,Rhesus screening - 1st pregnancy sample,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+4625791000006117,Rhesus screening - 2nd pregnancy sample,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+4625811000006118,Rhesus screening - 3rd pregnancy sample,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+168071000006111,Rhesus screening - cord blood sample,Obstetrics and Birth,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+165561000006116,Rubella screening - blood sent,Obstetrics and Birth,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+4640011000006115,Advice on cervical cytology,Personal Health and Social,1,0,Cervical screening,high,CERV2
+4639991000006116,Cervical cytology education,Personal Health and Social,1,0,Cervical screening,high,CERV2
+305231000000113,HIV (human immunodeficiency virus) screening counselling,Personal Health and Social,1,0,HIV screening,high,HIV1
+818001000006110,Health education on cervical cytology,Personal Health and Social,1,0,Cervical screening,high,CERV2
+313631000000112,Hepatitis B screening counselling,Personal Health and Social,1,0,Hepatitis B screening,high,HEPB1
+313601000000118,Hepatitis C screening counselling,Personal Health and Social,1,0,Hepatitis C screening,high,HEPC1
+13871641000006111,"Newborn blood spot screening programme, carrier of other haemoglobin type",Personal Health and Social,1,0,Newborn blood spot screening,high,NBS1
+313581000000110,Syphilis screening counselling,Personal Health and Social,1,0,Syphilis screening,high,SYPH2
+920281000006110,A/N blood group screen done,Procedure code,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+920271000006112,A/N blood group screen not done,Procedure code,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+920311000006112,A/N sickle cell screen done,Procedure code,1,0,Sickle cell & thalassaemia screening,high,SCT1
+920301000006114,A/N sickle cell screen not done,Procedure code,1,0,Sickle cell & thalassaemia screening,high,SCT1
+920241000006116,A/N syphilis screen not done,Procedure code,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+920251000006119,A/N syphilis screen-blood sent,Procedure code,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+920261000006117,Antenatal blood group screen,Procedure code,1,0,Antenatal: blood group & red cell antibody screening,high,ABL1
+920291000006113,Antenatal sickle cell screen,Procedure code,1,0,Sickle cell & thalassaemia screening,high,SCT1
+920231000006114,Antenatal syphilis screen,Procedure code,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+918641000006113,Child hearing screen - refer,Procedure code,1,0,Childhood hearing screening,high,CHR1
+918621000006118,Child hearing screen first failure,Procedure code,1,0,Childhood hearing screening,high,CHR1
+918631000006115,Child hearing screen second failure,Procedure code,1,0,Childhood hearing screening,high,CHR1
+923651000006114,Health ed. - cervical cytology,Procedure code,1,0,Cervical screening,high,CERV2
+920211000006115,Rubella screen - blood sent,Procedure code,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+458727018,360 degree sweep of cervix not performed,Symptoms and Findings,1,0,Cervical screening,medium,CERV3
+458726010,360 degree sweep of cervix performed,Symptoms and Findings,1,0,Cervical screening,medium,CERV3
+1763101000006115,360 degree x 5 sweep of cervix performed,Symptoms and Findings,1,0,Cervical screening,medium,CERV3
+959441000006114,Abnormal results of hearing screening test,Symptoms and Findings,1,0,Childhood hearing screening,high,CHR1
+617041000006117,Diabetic Foot Risk Assessment,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+856671000006117,Left diabetic foot high risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+856691000006116,Left diabetic foot low current risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+856681000006119,Left diabetic foot moderate risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1751641000006119,NHS Sickle Cell and Thalassaemia Screening Programme African family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751831000006111,"NHS Sickle Cell and Thalassaemia Screening Programme Austria, Belgium, Ireland, France, Germany, Netherlands family origin",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751681000006113,NHS Sickle Cell and Thalassaemia Screening Programme Bangladesh family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751631000006112,NHS Sickle Cell and Thalassaemia Screening Programme Caribbean Islands family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751701000006111,NHS Sickle Cell and Thalassaemia Screening Programme Chinese family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751791000006116,"NHS Sickle Cell and Thalassaemia Screening Programme Greece, Turkey, Cyprus family origin",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751661000006115,NHS Sickle Cell and Thalassaemia Screening Programme India or African-Indian family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751801000006115,"NHS Sickle Cell and Thalassaemia Screening Programme Italy, Portugal, Spain family origin",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751721000006118,"NHS Sickle Cell and Thalassaemia Screening Programme Malaysia, Vietnam, Philippines, Cambodia, Laos family origin",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751761000006112,NHS Sickle Cell and Thalassaemia Screening Programme Middle East family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751741000006113,NHS Sickle Cell and Thalassaemia Screening Programme North Africa family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751671000006110,NHS Sickle Cell and Thalassaemia Screening Programme Pakistan family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751781000006119,NHS Sickle Cell and Thalassaemia Screening Programme Sardinia family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751841000006118,"NHS Sickle Cell and Thalassaemia Screening Programme Scandinavia, Switzerland family origin",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751751000006110,NHS Sickle Cell and Thalassaemia Screening Programme South America family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751711000006114,"NHS Sickle Cell and Thalassaemia Screening Programme Thailand, Indonesia, Burma family origin",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751611000006118,NHS Sickle Cell and Thalassaemia Screening Programme family origin,Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751621000006114,NHS Sickle Cell and Thalassaemia Screening Programme family origin African or African-Caribbean (black),Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751821000006113,NHS Sickle Cell and Thalassaemia Screening Programme family origin Northern European (white),Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751651000006117,NHS Sickle Cell and Thalassaemia Screening Programme family origin South Asia (Asian),Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751771000006117,NHS Sickle Cell and Thalassaemia Screening Programme family origin Southern and other European (white),Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751811000006117,NHS Sickle Cell and Thalassaemia Screening Programme family origin United Kingdom (white),Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+1751731000006115,"NHS Sickle Cell and Thalassaemia Screening Programme family origin other non-European excluding African or African-Caribbean, South or South East Asian (other)",Symptoms and Findings,1,0,Sickle cell & thalassaemia screening,high,SCT1
+537331000000116,Newborn blood spot screening programme - congenital hypothyroidism (CHT) not screened for or screening incomplete,Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+537281000000114,Newborn blood spot screening programme - medium chain acyl-coenzyme A dehydrogenase deficiency (MCADD) not screened for or screening incomplete,Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+537241000000118,Newborn blood spot screening programme - phenylketonuria (PKU) not screened for or screening incomplete,Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869821000006115,"Newborn blood spot screening programme, congenital hypothyroidism not suspected and other disorders follow up required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869811000006111,"Newborn blood spot screening programme, congenital hypothyroidism repeat screening with further sample required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869851000006112,"Newborn blood spot screening programme, cystic fibrosis not suspected and other disorders follow up required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869841000006110,"Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+12705341000006115,"Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869751000006118,"Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency not suspected and other disorders follow up required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869731000006113,"Newborn blood spot screening programme, medium chain acyl-coenzyme A dehydrogenase deficiency repeat screening with further sample required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869791000006112,"Newborn blood spot screening programme, phenylketonuria not suspected and other disorders follow up required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869781000006114,"Newborn blood spot screening programme, phenylketonuria repeat screening with further sample required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1869881000006116,"Newborn blood spot screening programme, sickle cell not suspected and other disorders follow up required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+8126191000006110,"Newborn blood spot screening programme, sickle cell repeat screening with further sample required",Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS1
+1488398016,O/E - Left diabetic foot at high risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1666911000000113,O/E - Left diabetic foot at increased risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1488397014,O/E - Left diabetic foot at low risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1488403015,O/E - Left diabetic foot at moderate risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+451411017,O/E - Left diabetic foot at risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1488394019,O/E - Right diabetic foot at high risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1666931000000117,O/E - Right diabetic foot at increased risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1488393013,O/E - Right diabetic foot at low risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+1488404014,O/E - Right diabetic foot at moderate risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+451410016,O/E - Right diabetic foot at risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+6546341000006116,On examination - Left diabetic foot at high risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+6546321000006111,On examination - Left diabetic foot at low risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+6546411000006113,On examination - Left diabetic foot at moderate risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+6546261000006110,On examination - Right diabetic foot at high risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+6546241000006111,On examination - Right diabetic foot at low risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+6546431000006119,On examination - Right diabetic foot at moderate risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+857721000006112,Right diabetic foot high risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+857761000006118,Right diabetic foot low current risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+857741000006117,Right diabetic foot moderate risk,Symptoms and Findings,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+758421000000112,Sickle cell repeat screening with further sample required,Symptoms and Findings,1,0,Newborn blood spot screening,high,NBS2
+6767651000006118,Antenatal hepatitis B blood screening test status,Unset,1,0,"Antenatal: infectious diseases (HIV, hepatitis B, syphilis, rubella)",high,AINF1
+8454391000006118,"Antenatal screening blood test for Down's, Edwards' and Patau's syndromes",Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+12736041000006118,"Antenatal screening blood test for Down's, Edwards' and Patau's syndromes",Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+12737521000006116,Antenatal screening combined test for Down's syndrome done,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+12737511000006112,Antenatal screening combined ultrasound and blood test for Down's syndrome done,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+12737531000006118,"Antenatal screening combined ultrasound and blood test for Down's, Edwards' and Patau's syndromes done",Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+8454431000006112,Antenatal screening shows higher risk of Down's syndrome,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+8454451000006117,Antenatal screening shows lower risk of Down's syndrome,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+8454481000006113,Antenatal screening shows lower risk of Edwards' and Patau's syndromes,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+5417241000006111,Biochemical Down's screening marker,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+8126021000006112,Bowel cancer screening programme finding,Unset,1,0,Bowel cancer screening,high,BOW1
+14785371000006118,Cervical cancer screening service,Unset,1,0,Cervical screening,high,CERV1
+8011701000006112,Cervical cytology claim status,Unset,1,0,Cervical screening,high,CERV2
+5911091000006116,Cervical cytology finding,Unset,1,0,Cervical screening,high,CERV2
+6887401000006115,Cervical cytology test,Unset,1,0,Cervical screening,high,CERV2
+7794481000006119,Cervical high risk HPV (human papillomavirus) test positive,Unset,1,0,Cervical screening,medium,CERV3
+12483421000006110,Cervical smear biopsy taken,Unset,1,0,Cervical screening,high,CERV2
+8257901000006118,Cervical smear due date,Unset,1,0,Cervical screening,high,CERV2
+5978261000006118,Cervical smear recall,Unset,1,0,Cervical screening,high,CERV2
+12460421000006118,Cervical smear taken,Unset,1,0,Cervical screening,high,CERV2
+3966711000006111,Cervical smear test,Unset,1,0,Cervical screening,high,CERV2
+8259621000006110,Cervical smear test indicated but not done,Unset,1,0,Cervical screening,high,CERV2
+6886541000006115,Cervicovaginal cytology: HGSIL or carcinoma,Unset,1,0,Cervical screening,high,CERV2
+8095491000006111,Child health screening for hearing,Unset,1,0,Childhood hearing screening,high,CHR1
+5978131000006116,Child hearing screening failure,Unset,1,0,Childhood hearing screening,high,CHR1
+8065171000006118,Children's hearing screening,Unset,1,0,Childhood hearing screening,high,CHR1
+7119551000006118,"Combined specimen of cytologic material from endocervix, ectocervix, and vaginal fornix",Unset,1,0,Cervical screening,high,CERV2
+8192271000006113,Consent given for newborn hearing screening programme,Unset,1,0,Newborn hearing screening,high,NHR1
+7979721000006113,Diabetic foot exam not done,Unset,1,0,Diabetic foot / neuropathy screening,medium,DFT2
+7828041000006115,Diabetic retinal eye exam,Unset,1,0,Diabetic eye screening,medium,DEYE2
+7979841000006113,Diabetic retinal eye exam not done,Unset,1,0,Diabetic eye screening,medium,DEYE2
+8242331000006114,Diabetic retinopathy detected by national screening programme,Unset,1,0,Diabetic eye screening,high,DEYE1
+5289121000006115,Down's biochemical marker measurement,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",medium,AND2
+5311151000006116,Down's maternal screening,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+6054381000006119,Downs screening test,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+15229701000006115,Gestational diabetes mellitus screening,Unset,1,0,Gestational diabetes screening,high,GDM1
+5998101000006118,Hearing screening status,Unset,1,0,Childhood hearing screening,high,CHR1
+8464801000006110,Hepatitis A screening,Unset,1,0,Hepatitis A screening,medium,HEPA1
+6042541000006112,Hepatitis B screening test,Unset,1,0,Hepatitis B screening,high,HEPB1
+12618221000006116,Hepatitis C screening - infected with hepatitis C virus,Unset,1,0,Hepatitis C screening,high,HEPC1
+12618231000006118,Hepatitis C screening - never exposed to hepatitis C virus,Unset,1,0,Hepatitis C screening,high,HEPC1
+7794461000006112,"Human papillomavirus deoxyribonucleic acid test positive, high risk on cervical specimen",Unset,1,0,Cervical screening,medium,CERV3
+8097461000006110,Information sharing consent status for national screening programme for diabetic retinopathy,Unset,1,0,Diabetic eye screening,high,DEYE1
+9881231000006111,Low risk human papillomavirus DNA test positive in specimen from cervix,Unset,1,0,Cervical screening,medium,CERV3
+12735601000006118,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb AS (haemoglobin S) carrier,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735591000006114,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb S (haemoglobin S) carrier,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735451000006116,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SC (sickle cell-haemoglobin C) disease,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735461000006119,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SD (sickle cell-haemoglobin D) disease,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735501000006119,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SE (sickle cell-haemoglobin E) disease,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735431000006111,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with Hb SS (sickle cell-Haemoglobin SS) disease,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735701000006113,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbC (Haemoglobin C) carrier,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735721000006115,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbE (haemoglobin E) carrier,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735621000006111,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with HbH (haemoglobin H) disease,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735631000006114,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with beta thalassaemia carrier,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735641000006116,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with delta-beta thalassaemia carrier,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12736481000006118,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with no evidence of thalassaemia,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12736731000006113,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with possible alpha thalassaemia carrier and/or iron deficiency,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735441000006118,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with sickle cell anaemia,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12735491000006110,NHS Sickle Cell and Thalassaemia Screening Programme result consistent with sickle cell beta-thalassaemia,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12737731000006111,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result consistent with homozygous haemoglobin variant clinically significant,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12737811000006114,NHS Sickle Cell and Thalassaemia Screening Programme thalassaemia screening result with recommendation sperm donor haemoglobinopathy result needed,Unset,1,0,Sickle cell & thalassaemia screening,high,SCT1
+12736761000006116,NIPT (non-invasive prenatal testing) for Down's syndrome screening,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+12736771000006111,NIPT (non-invasive prenatal testing) for Edwards' syndrome screening,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+12736781000006114,NIPT (non-invasive prenatal testing) for Patau's syndrome screening,Unset,1,0,"Antenatal: Down's, Edwards' & Patau's syndrome screening",high,AND1
+7512371000006115,Never had cervical smear,Unset,1,0,Cervical screening,high,CERV2
+8368191000006114,"Newborn and Infant Physical Examination Screening Programme, eye examination",Unset,1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8368181000006111,"Newborn and Infant Physical Examination Screening Programme, heart examination",Unset,1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8365501000006118,"Newborn and Infant Physical Examination Screening Programme, hip examination",Unset,1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8368201000006112,"Newborn and Infant Physical Examination Screening Programme, testis examination",Unset,1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8369721000006117,Newborn and infant physical examination outcomes simple reference set,Unset,1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+8369711000006113,Newborn and infant physical examination procedures simple reference set,Unset,1,0,Newborn & infant physical examination (NIPE),high,NIPE1
+12618561000006112,Newborn blood spot screening card sent to laboratory,Unset,1,0,Newborn blood spot screening,high,NBS1
+8353441000006114,Newborn blood spot screening result status simple reference set,Unset,1,0,Newborn blood spot screening,high,NBS1
+8353451000006111,Newborn blood spot screening result sub-status simple reference set,Unset,1,0,Newborn blood spot screening,high,NBS1
+8353461000006113,Newborn blood spot screening test procedures simple reference set,Unset,1,0,Newborn blood spot screening,high,NBS1
+8279551000006116,Provision of written information about cervical smear test,Unset,1,0,Cervical screening,high,CERV2
+8032661000006119,Sampling of vagina for Papanicolaou smear after hysterectomy for dysplasia of cervix done,Unset,1,0,Cervical screening,high,CERV2
+8307211000006110,School entrant hearing screening clear response - no follow-up required,Unset,1,0,Childhood hearing screening,high,CHR1
+8307241000006114,School entrant hearing screening incomplete - absent from school,Unset,1,0,Childhood hearing screening,high,CHR1
+8307271000006118,School entrant hearing screening incomplete - behavioural issues,Unset,1,0,Childhood hearing screening,high,CHR1
+8307261000006113,School entrant hearing screening incomplete - screening contraindicated,Unset,1,0,Childhood hearing screening,high,CHR1
+8309391000006115,School entrant hearing screening left ear - clear response,Unset,1,0,Childhood hearing screening,high,CHR1
+8309421000006111,School entrant hearing screening left ear - no clear response,Unset,1,0,Childhood hearing screening,high,CHR1
+8307181000006111,School entrant hearing screening not tested,Unset,1,0,Childhood hearing screening,high,CHR1
+8309381000006118,School entrant hearing screening right ear - clear response,Unset,1,0,Childhood hearing screening,high,CHR1
+8309401000006118,School entrant hearing screening right ear - no clear response,Unset,1,0,Childhood hearing screening,high,CHR1
+6002911000006111,Screening for malignant neoplasm excluding cervical,Unset,1,0,"Cancer screening (unspecified, non-cervical)",high,GEN1
+6831611000006117,Viral hepatitis screening test,Unset,1,0,Viral hepatitis screening (unspecified),high,VHEP1

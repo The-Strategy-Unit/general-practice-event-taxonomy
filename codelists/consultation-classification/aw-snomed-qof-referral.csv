@@ -1,0 +1,43 @@
+condition_id,snomedctconceptid,snomed_code_description
+Asthma,702540003,Referral for spirometry reversibility test
+Asthma,882591000000103,Referral for spirometry reversibility testing
+Cholesterol,1091311000000108,Referral to end of life care service
+Cholesterol,306288008,Referral to palliative care physician
+Cholesterol,306237005,Referral to palliative care service
+Cholesterol,783841000000101,Referral to community palliative care team declined
+COPD,24461000000105,Referral to pulmonary rehabilitation
+Diabetes,781161000000107,Referral to diabetes education and self management for ongoing and newly diagnosed structured programme declined
+Diabetes,860981000000106,Referral to dose adjustment for normal eating diabetes structured education programme declined
+Diabetes,414230000,Family/carer referral to diabetes structured education program
+Diabetes,1108741000000109,Referral to Healthy Living for People with Diabetes online self-management programme
+Diabetes,306741000000104,Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme
+Diabetes,415270003,Referral to diabetes structured education program
+Diabetes,306701000000102,Referral to dose adjustment for normal eating diabetes structured education programme
+Diabetes,306771000000105,Referral to expert patient education versus routine treatment diabetes structured education programme
+Diabetes,1108731000000100,Referral to online diabetes structured education programme
+Diabetes,754461000000105,Referral to type I diabetes structured education programme
+Diabetes,1258873001,Caregiver referred to diabetes structured education program
+Diabetes,1258872006,Family referred to diabetes structured education program
+Heart failure,760361000000100,Fast track heart failure referral for transthoracic two dimensional echocardiogram
+Heart failure,183899006,Private referral to cardiologist
+Heart failure,390791001,Referral for echocardiography
+Heart failure,308471005,Referral to cardiologist
+Heart failure,183519002,Referral to cardiology service
+Heart failure,196311000000107,Referral to cardiology special interest general practitioner
+Heart failure,134440006,Referral to heart failure clinic
+Heart failure,873881000000100,Referral to rapid access heart failure clinic
+Heart failure,1091311000000108,Referral to end of life care service
+Heart failure,306288008,Referral to palliative care physician
+Heart failure,306237005,Referral to palliative care service
+Heart failure,783841000000101,Referral to community palliative care team declined
+Palliative care,1091311000000108,Referral to end of life care service
+Palliative care,306288008,Referral to palliative care physician
+Palliative care,306237005,Referral to palliative care service
+Palliative care,783841000000101,Referral to community palliative care team declined
+Smoking,767641000000109,Referral for smoking cessation service offered
+Smoking,770729006,Referral for brief intervention for smoking cessation
+Smoking,505281000000106,Referral to National Health Service stop smoking service
+Smoking,395700008,Referral to smoking cessation advisor
+Smoking,871661000000106,Referral to smoking cessation service
+Smoking,315232003,Referral to stop-smoking clinic
+Smoking,871641000000105,Referral to smoking cessation service declined

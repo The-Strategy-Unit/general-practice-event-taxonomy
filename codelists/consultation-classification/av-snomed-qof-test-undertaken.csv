@@ -1,0 +1,852 @@
+condition_id,snomedctconceptid,snomed_code_description
+Asthma,763077003,Asthma Control Questionnaire score
+Asthma,443117005,Asthma control test score
+Asthma,905301000000103,Childhood Asthma Control Test score
+Asthma,170627008,Airways obstruction reversible
+Asthma,391121008,Positive reversibility test to a combination of salbutamol and ipratropium bromide
+Asthma,391122001,Positive reversibility test to corticosteroids
+Asthma,391119003,Positive reversibility test to ipratropium bromide
+Asthma,391118006,Positive reversibility test to salbutamol
+Asthma,314981002,Spirometry reversibility positive
+Asthma,767906009,Post bronchodilator spirometry
+Asthma,774951000000101,Post bronchodilator spirometry
+Asthma,314979004,Spirometry reversibility test
+Asthma,1201788001,Volume fraction of nitric oxide in exhaled air
+Asthma,444642008,Measurement of expired nitric oxide
+Asthma,7206008,Decreased peak expiratory flow rate
+Asthma,37494006,Increased peak expiratory flow rate
+Asthma,414883002,Number of consecutive days at less than 80 percent peak expiratory flow rate
+Asthma,407668008,Serial peak expiratory flow rate abnormal
+Asthma,251936000,Best ever peak expiratory flow rate
+Asthma,429745009,Diurnal variation of peak expiratory flow rate
+Asthma,980161000000106,European Union Scale for Peak Expiratory Flow Rate - Adult
+Asthma,980181000000102,European Union Scale for Peak Expiratory Flow Rate - Children
+Asthma,1084021000000103,Number of consecutive days at less than 80% peak expiratory flow rate
+Asthma,18491006,Peak expiratory flow rate
+Asthma,313232000,Peak expiratory flow rate after bronchodilation
+Asthma,763131000000100,Peak expiratory flow rate after exercise
+Asthma,878870000,Peak expiratory flow rate after exercise
+Asthma,313276007,Peak expiratory flow rate before bronchodilation
+Asthma,165871000000103,Peak expiratory flow rate measured using EN 13826 device
+Asthma,401015005,Peak expiratory flow rate post steroids
+Asthma,401014009,Peak expiratory flow rate pre steroids
+Asthma,271507006,Peak flow rate after bronchodilation
+Asthma,271529005,Peak flow rate before bronchodilation
+Asthma,401163005,Percentage of best ever peak expiratory flow rate
+Asthma,401199000,Percentage of peak expiratory flow rate variability
+Asthma,134432000,Recorded/predicted peak expiratory flow rate ratio
+Asthma,251940009,Serial peak expiratory flow rate
+Asthma,251939007,Single peak expiratory flow rate
+Asthma,716760001,Assessment using European Union Scale for Peak Expiratory Flow Rate for adults
+Asthma,716761002,Assessment using European Union Scale for Peak Expiratory Flow Rate for children
+Asthma,29893006,Peak expiratory flow measurement
+Asthma,401004000,Peak expiratory flow rate monitoring
+Asthma,401011001,Peak expiratory flow rate monitoring using diary
+Atrial fibrillation,793851000000102,"Congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category stroke risk score"
+Atrial fibrillation,735259005,"Congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category stroke risk score"
+Atrial fibrillation,1085111000000109,"Congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack score"
+Atrial fibrillation,763008007,"Congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack score"
+Atrial fibrillation,763007002,"Assessment using congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack score"
+CHD,274722000,Elevated blood-pressure reading w/out diagn of hypertension
+CHD,271870002,Low blood pressure reading
+CHD,163024003,On examination - blood pressure borderline low
+CHD,163023009,On examination - blood pressure reading low
+CHD,163022004,On examination - blood pressure reading very low
+CHD,271869003,Raised blood pressure reading
+CHD,38936003,Abnormal blood pressure
+CHD,49844009,Abnormal diastolic arterial pressure
+CHD,18352002,Abnormal systolic arterial pressure
+CHD,271871003,Blood pressure reading labile
+CHD,147850007,Borderline blood pressure
+CHD,314956000,Borderline blood pressure
+CHD,170604000,Borderline blood pressure
+CHD,12763006,Decreased blood pressure
+CHD,42689008,Decreased diastolic arterial pressure
+CHD,81010002,Decreased systolic arterial pressure
+CHD,24184005,Increased blood pressure
+CHD,23154005,Increased diastolic arterial pressure
+CHD,18050000,Increased systolic arterial pressure
+CHD,251080003,Labile blood pressure
+CHD,2004005,Normal blood pressure
+CHD,147851006,Normal blood pressure
+CHD,170605004,Normal blood pressure
+CHD,53813002,Normal diastolic arterial pressure
+CHD,12929001,Normal systolic arterial pressure
+CHD,140250002,O/E - BP labile
+CHD,140238008,O/E - BP reading normal
+CHD,140240003,O/E - BP reading raised
+CHD,140241004,O/E - BP reading very high
+CHD,140245008,O/E - BP stable
+CHD,147836002,O/E - check high BP
+CHD,147835003,O/E - initial high BP
+CHD,163031004,On examination - Diastolic blood pressure reading
+CHD,163030003,On examination - Systolic blood pressure reading
+CHD,163026001,On examination - blood pressure borderline raised
+CHD,163036009,On examination - blood pressure decreased
+CHD,163037000,On examination - blood pressure labile
+CHD,163020007,On examination - blood pressure reading
+CHD,163025002,On examination - blood pressure reading normal
+CHD,163027005,On examination - blood pressure reading raised
+CHD,163028000,On examination - blood pressure reading very high
+CHD,163029008,On examination - blood pressure reading: postural drop
+CHD,163032006,On examination - blood pressure stable
+CHD,170582005,On examination - check high blood pressure
+CHD,170581003,On examination - initial high blood pressure
+CHD,707303003,Post exercise systolic blood pressure response abnormal
+CHD,707304009,Post exercise systolic blood pressure response normal
+CHD,775671000000104,Post exercise systolic blood pressure response normal
+CHD,147827001,Pre-treatment BP reading
+CHD,271647008,Raised blood pressure
+CHD,271651005,Stable blood pressure
+CHD,862121000000109,Unusual variability in blood pressure
+CHD,386534000,Arterial blood pressure
+CHD,928021000000108,Baseline blood pressure
+CHD,716632005,Baseline diastolic blood pressure
+CHD,945851000000103,Baseline diastolic blood pressure
+CHD,716579001,Baseline systolic blood pressure
+CHD,945871000000107,Baseline systolic blood pressure
+CHD,75367002,Blood pressure
+CHD,1091811000000102,Diastolic arterial pressure
+CHD,67726005,Diastolic arterial pressure
+CHD,271650006,Diastolic blood pressure
+CHD,163033001,Lying blood pressure
+CHD,140246009,Lying blood pressure reading
+CHD,407557002,Lying diastolic blood pressure
+CHD,407556006,Lying systolic blood pressure
+CHD,6797001,Mean blood pressure
+CHD,723236006,Minimum blood pressure
+CHD,314451001,Minimum diastolic blood pressure
+CHD,852301000000109,Minimum mean blood pressure
+CHD,314438006,Minimum systolic blood pressure
+CHD,251076008,Non-invasive arterial pressure
+CHD,723237002,Non-invasive blood pressure
+CHD,174255007,Non-invasive diastolic arterial pressure
+CHD,251070002,Non-invasive systolic arterial pressure
+CHD,251078009,Post-vasodilatation arterial pressure
+CHD,163035008,Sitting blood pressure
+CHD,140248005,Sitting blood pressure reading
+CHD,407555005,Sitting diastolic blood pressure
+CHD,407554009,Sitting systolic blood pressure
+CHD,163034007,Standing blood pressure
+CHD,140247000,Standing blood pressure reading
+CHD,400975005,Standing diastolic blood pressure
+CHD,400974009,Standing systolic blood pressure
+CHD,386536003,Systemic blood pressure
+CHD,72313002,Systolic arterial pressure
+CHD,271649006,Systolic blood pressure
+CHD,1105331000000106,Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection
+CHD,990141000000106,Measurement of blood pressure in left arm
+CHD,990151000000109,Measurement of blood pressure in right arm
+CHD,371911009,Measurement of blood pressure using cuff method
+CHD,990231000000105,Measurement of blood pressure using large adult size blood pressure cuff
+CHD,810061000000102,Measurement of blood pressure using manual sphygmomanometer by auscultation over brachial artery
+CHD,990161000000107,Measurement of blood pressure using manual sphygmomanometer by palpation
+CHD,816161000000103,Measurement of blood pressure using non-invasive blood pressure monitor
+CHD,990261000000100,Measurement of blood pressure using paediatric size blood pressure cuff
+CHD,990251000000103,Measurement of blood pressure using small adult size blood pressure cuff
+CHD,990241000000101,Measurement of blood pressure using standard adult size blood pressure cuff
+CHD,1034121000000108,Postoperative blood pressure measurement
+CHD,722502005,Postoperative blood pressure measurement
+CHD,1034101000000104,Preoperative blood pressure measurement
+CHD,722500002,Preoperative blood pressure measurement
+CHD,170573004,Pre-treatment blood pressure reading
+CHD,371622005,Elevated blood pressure reading without diagnosis of hypertension
+CHD,313005002,On examination - blood pressure reading: no postural drop
+CHD,928031000000105,Baseline blood pressure
+CHD,945861000000100,Baseline diastolic blood pressure
+CHD,945881000000109,Baseline systolic blood pressure
+CHD,100181000000103,Lying diastolic blood pressure
+CHD,95311000000107,Lying diastolic blood pressure
+CHD,95301000000105,Lying systolic blood pressure
+CHD,100171000000100,Lying systolic blood pressure
+CHD,1034131000000105,Post-operative blood pressure measurement
+CHD,1034111000000102,Pre-operative blood pressure measurement
+CHD,100161000000107,Sitting diastolic blood pressure
+CHD,95291000000106,Sitting diastolic blood pressure
+CHD,100151000000109,Sitting systolic blood pressure
+CHD,95281000000109,Sitting systolic blood pressure
+CHD,79411000000108,Standing diastolic blood pressure
+CHD,75141000000102,Standing diastolic blood pressure
+CHD,79401000000106,Standing systolic blood pressure
+CHD,75131000000106,Standing systolic blood pressure
+Cholesterol,723870003,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+Cholesterol,312822006,Critical ischemia of foot
+Cholesterol,233962007,Critical lower limb ischemia
+Cholesterol,15649941000119102,Gangrene of bilateral lower limbs co-occurrent and due to atherosclerosis
+Cholesterol,15649991000119105,Gangrene of left lower limb due to atherosclerosis
+Cholesterol,15649901000119104,Gangrene of right lower limb due to atherosclerosis
+Cholesterol,300917007,Ischemia of feet
+Cholesterol,301755001,Ischemic foot
+Cholesterol,713412006,Ischemic foot with rest pain
+Cholesterol,307408003,Ischemic toe
+Cholesterol,10665871000119100,Ischemic ulcer of left ankle due to atherosclerotic disease
+Cholesterol,10664071000119107,Ischemic ulcer of left calf due to atherosclerotic disease
+Cholesterol,10654871000119108,Ischemic ulcer of left foot due to atherosclerotic disease
+Cholesterol,10655071000119103,Ischemic ulcer of left heel due to atherosclerotic disease
+Cholesterol,10663991000119105,Ischemic ulcer of left lower leg due to atherosclerotic disease
+Cholesterol,10655271000119108,Ischemic ulcer of left midfoot due to atherosclerotic disease
+Cholesterol,10665791000119109,Ischemic ulcer of left thigh due to atherosclerotic disease
+Cholesterol,10664951000119102,Ischemic ulcer of right ankle due to atherosclerotic disease
+Cholesterol,10664231000119100,Ischemic ulcer of right calf due to atherosclerotic disease
+Cholesterol,10655671000119105,Ischemic ulcer of right foot due to atherosclerotic disease
+Cholesterol,10655831000119106,Ischemic ulcer of right heel due to atherosclerotic disease
+Cholesterol,10664351000119101,Ischemic ulcer of right lower leg due to atherosclerotic disease
+Cholesterol,10656031000119109,Ischemic ulcer of right midfoot due to atherosclerotic disease
+Cholesterol,10665551000119107,Ischemic ulcer of right thigh due to atherosclerotic disease
+Cholesterol,10653951000119109,Ischemic ulcer of toe of left foot due to atherosclerotic disease
+Cholesterol,10654151000119105,Ischemic ulcer of toe of right foot due to atherosclerotic disease
+Cholesterol,792844003,Limb pain at rest due to atherosclerosis of artery of lower limb
+Cholesterol,233961000,Lower limb ischemia
+Cholesterol,12236991000119103,Pain at rest of bilateral lower limbs due to atherosclerosis
+Cholesterol,12237111000119107,Pain at rest of left lower limb due to atherosclerosis
+Cholesterol,12237231000119107,Pain at rest of right lower limb due to atherosclerosis
+Cholesterol,127014009,Peripheral angiopathy due to diabetes mellitus
+Cholesterol,31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus
+Cholesterol,314902007,Peripheral angiopathy due to type 2 diabetes mellitus
+Cholesterol,840580004,Peripheral arterial disease
+Cholesterol,399957001,Peripheral arterial occlusive disease
+Cholesterol,233958001,Peripheral ischemia
+Cholesterol,400047006,Peripheral vascular disease
+Cholesterol,34881000119105,Peripheral vascular disease associated with another disorder
+Cholesterol,307406004,Trash foot
+Cholesterol,792850008,Ulcer of ankle due to atherosclerosis of artery of lower limb
+Cholesterol,792855003,Ulcer of calf due to atherosclerosis of artery of lower limb
+Cholesterol,792846001,Ulcer of heel due to atherosclerosis of artery of lower limb
+Cholesterol,275520000,Claudication
+Cholesterol,63491006,Intermittent claudication
+Cholesterol,16013431000119104,Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft
+Cholesterol,836711000000108,Ischaemic lower limb pain at rest
+COPD,314472003,Forced expiratory volume in one second/Forced vital capacity less than 70 percent of predicted
+COPD,407603001,Forced expiratory volume in one second/forced vital capacity ratio after bronchodilator
+COPD,391124000,Medical Research Council Dyspnoea scale grade 3
+COPD,391125004,Medical Research Council Dyspnoea scale grade 4
+COPD,391126003,Medical Research Council Dyspnoea scale grade 5
+COPD,391120009,Medical Research Council Dyspnoea scale grade 1
+COPD,391123006,Medical Research Council Dyspnoea scale grade 2
+COPD,391124000,Medical Research Council Dyspnoea scale grade 3
+COPD,391125004,Medical Research Council Dyspnoea scale grade 4
+COPD,391126003,Medical Research Council Dyspnoea scale grade 5
+Diabetes,274722000,Elevated blood-pressure reading w/out diagn of hypertension
+Diabetes,271870002,Low blood pressure reading
+Diabetes,163024003,On examination - blood pressure borderline low
+Diabetes,163023009,On examination - blood pressure reading low
+Diabetes,163022004,On examination - blood pressure reading very low
+Diabetes,271869003,Raised blood pressure reading
+Diabetes,38936003,Abnormal blood pressure
+Diabetes,49844009,Abnormal diastolic arterial pressure
+Diabetes,18352002,Abnormal systolic arterial pressure
+Diabetes,271871003,Blood pressure reading labile
+Diabetes,147850007,Borderline blood pressure
+Diabetes,314956000,Borderline blood pressure
+Diabetes,170604000,Borderline blood pressure
+Diabetes,12763006,Decreased blood pressure
+Diabetes,42689008,Decreased diastolic arterial pressure
+Diabetes,81010002,Decreased systolic arterial pressure
+Diabetes,24184005,Increased blood pressure
+Diabetes,23154005,Increased diastolic arterial pressure
+Diabetes,18050000,Increased systolic arterial pressure
+Diabetes,251080003,Labile blood pressure
+Diabetes,2004005,Normal blood pressure
+Diabetes,147851006,Normal blood pressure
+Diabetes,170605004,Normal blood pressure
+Diabetes,53813002,Normal diastolic arterial pressure
+Diabetes,12929001,Normal systolic arterial pressure
+Diabetes,140250002,O/E - BP labile
+Diabetes,140238008,O/E - BP reading normal
+Diabetes,140240003,O/E - BP reading raised
+Diabetes,140241004,O/E - BP reading very high
+Diabetes,140245008,O/E - BP stable
+Diabetes,147836002,O/E - check high BP
+Diabetes,147835003,O/E - initial high BP
+Diabetes,163031004,On examination - Diastolic blood pressure reading
+Diabetes,163030003,On examination - Systolic blood pressure reading
+Diabetes,163026001,On examination - blood pressure borderline raised
+Diabetes,163036009,On examination - blood pressure decreased
+Diabetes,163037000,On examination - blood pressure labile
+Diabetes,163020007,On examination - blood pressure reading
+Diabetes,163025002,On examination - blood pressure reading normal
+Diabetes,163027005,On examination - blood pressure reading raised
+Diabetes,163028000,On examination - blood pressure reading very high
+Diabetes,163029008,On examination - blood pressure reading: postural drop
+Diabetes,163032006,On examination - blood pressure stable
+Diabetes,170582005,On examination - check high blood pressure
+Diabetes,170581003,On examination - initial high blood pressure
+Diabetes,707303003,Post exercise systolic blood pressure response abnormal
+Diabetes,707304009,Post exercise systolic blood pressure response normal
+Diabetes,775671000000104,Post exercise systolic blood pressure response normal
+Diabetes,147827001,Pre-treatment BP reading
+Diabetes,271647008,Raised blood pressure
+Diabetes,271651005,Stable blood pressure
+Diabetes,862121000000109,Unusual variability in blood pressure
+Diabetes,386534000,Arterial blood pressure
+Diabetes,928021000000108,Baseline blood pressure
+Diabetes,716632005,Baseline diastolic blood pressure
+Diabetes,945851000000103,Baseline diastolic blood pressure
+Diabetes,716579001,Baseline systolic blood pressure
+Diabetes,945871000000107,Baseline systolic blood pressure
+Diabetes,75367002,Blood pressure
+Diabetes,1091811000000102,Diastolic arterial pressure
+Diabetes,67726005,Diastolic arterial pressure
+Diabetes,271650006,Diastolic blood pressure
+Diabetes,163033001,Lying blood pressure
+Diabetes,140246009,Lying blood pressure reading
+Diabetes,407557002,Lying diastolic blood pressure
+Diabetes,407556006,Lying systolic blood pressure
+Diabetes,6797001,Mean blood pressure
+Diabetes,723236006,Minimum blood pressure
+Diabetes,314451001,Minimum diastolic blood pressure
+Diabetes,852301000000109,Minimum mean blood pressure
+Diabetes,314438006,Minimum systolic blood pressure
+Diabetes,251076008,Non-invasive arterial pressure
+Diabetes,723237002,Non-invasive blood pressure
+Diabetes,174255007,Non-invasive diastolic arterial pressure
+Diabetes,251070002,Non-invasive systolic arterial pressure
+Diabetes,251078009,Post-vasodilatation arterial pressure
+Diabetes,163035008,Sitting blood pressure
+Diabetes,140248005,Sitting blood pressure reading
+Diabetes,407555005,Sitting diastolic blood pressure
+Diabetes,407554009,Sitting systolic blood pressure
+Diabetes,163034007,Standing blood pressure
+Diabetes,140247000,Standing blood pressure reading
+Diabetes,400975005,Standing diastolic blood pressure
+Diabetes,400974009,Standing systolic blood pressure
+Diabetes,386536003,Systemic blood pressure
+Diabetes,72313002,Systolic arterial pressure
+Diabetes,271649006,Systolic blood pressure
+Diabetes,1105331000000106,Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection
+Diabetes,990141000000106,Measurement of blood pressure in left arm
+Diabetes,990151000000109,Measurement of blood pressure in right arm
+Diabetes,371911009,Measurement of blood pressure using cuff method
+Diabetes,990231000000105,Measurement of blood pressure using large adult size blood pressure cuff
+Diabetes,810061000000102,Measurement of blood pressure using manual sphygmomanometer by auscultation over brachial artery
+Diabetes,990161000000107,Measurement of blood pressure using manual sphygmomanometer by palpation
+Diabetes,816161000000103,Measurement of blood pressure using non-invasive blood pressure monitor
+Diabetes,990261000000100,Measurement of blood pressure using paediatric size blood pressure cuff
+Diabetes,990251000000103,Measurement of blood pressure using small adult size blood pressure cuff
+Diabetes,990241000000101,Measurement of blood pressure using standard adult size blood pressure cuff
+Diabetes,1034121000000108,Postoperative blood pressure measurement
+Diabetes,722502005,Postoperative blood pressure measurement
+Diabetes,1034101000000104,Preoperative blood pressure measurement
+Diabetes,722500002,Preoperative blood pressure measurement
+Diabetes,170573004,Pre-treatment blood pressure reading
+Diabetes,371622005,Elevated blood pressure reading without diagnosis of hypertension
+Diabetes,313005002,On examination - blood pressure reading: no postural drop
+Diabetes,928031000000105,Baseline blood pressure
+Diabetes,945861000000100,Baseline diastolic blood pressure
+Diabetes,945881000000109,Baseline systolic blood pressure
+Diabetes,100181000000103,Lying diastolic blood pressure
+Diabetes,95311000000107,Lying diastolic blood pressure
+Diabetes,95301000000105,Lying systolic blood pressure
+Diabetes,100171000000100,Lying systolic blood pressure
+Diabetes,1034131000000105,Post-operative blood pressure measurement
+Diabetes,1034111000000102,Pre-operative blood pressure measurement
+Diabetes,100161000000107,Sitting diastolic blood pressure
+Diabetes,95291000000106,Sitting diastolic blood pressure
+Diabetes,100151000000109,Sitting systolic blood pressure
+Diabetes,95281000000109,Sitting systolic blood pressure
+Diabetes,79411000000108,Standing diastolic blood pressure
+Diabetes,75141000000102,Standing diastolic blood pressure
+Diabetes,79401000000106,Standing systolic blood pressure
+Diabetes,75131000000106,Standing systolic blood pressure
+Diabetes,1049301000000100,Haemoglobin A1c level (diagnostic reference range) - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Diabetes,1049321000000109,Haemoglobin A1c level (monitoring ranges) - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Diabetes,999791000000106,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Diabetes,1971000237103,Substance concentration of haemoglobin A1c diagnostic reference range in blood
+Diabetes,1107481000000106,Substance concentration of haemoglobin A1c in blood
+Diabetes,6181000237109,Substance concentration of haemoglobin A1c monitoring range in blood
+Diabetes,723870003,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+Diabetes,312822006,Critical ischemia of foot
+Diabetes,233962007,Critical lower limb ischemia
+Diabetes,15649941000119102,Gangrene of bilateral lower limbs co-occurrent and due to atherosclerosis
+Diabetes,15649991000119105,Gangrene of left lower limb due to atherosclerosis
+Diabetes,15649901000119104,Gangrene of right lower limb due to atherosclerosis
+Diabetes,300917007,Ischemia of feet
+Diabetes,301755001,Ischemic foot
+Diabetes,713412006,Ischemic foot with rest pain
+Diabetes,307408003,Ischemic toe
+Diabetes,10665871000119100,Ischemic ulcer of left ankle due to atherosclerotic disease
+Diabetes,10664071000119107,Ischemic ulcer of left calf due to atherosclerotic disease
+Diabetes,10654871000119108,Ischemic ulcer of left foot due to atherosclerotic disease
+Diabetes,10655071000119103,Ischemic ulcer of left heel due to atherosclerotic disease
+Diabetes,10663991000119105,Ischemic ulcer of left lower leg due to atherosclerotic disease
+Diabetes,10655271000119108,Ischemic ulcer of left midfoot due to atherosclerotic disease
+Diabetes,10665791000119109,Ischemic ulcer of left thigh due to atherosclerotic disease
+Diabetes,10664951000119102,Ischemic ulcer of right ankle due to atherosclerotic disease
+Diabetes,10664231000119100,Ischemic ulcer of right calf due to atherosclerotic disease
+Diabetes,10655671000119105,Ischemic ulcer of right foot due to atherosclerotic disease
+Diabetes,10655831000119106,Ischemic ulcer of right heel due to atherosclerotic disease
+Diabetes,10664351000119101,Ischemic ulcer of right lower leg due to atherosclerotic disease
+Diabetes,10656031000119109,Ischemic ulcer of right midfoot due to atherosclerotic disease
+Diabetes,10665551000119107,Ischemic ulcer of right thigh due to atherosclerotic disease
+Diabetes,10653951000119109,Ischemic ulcer of toe of left foot due to atherosclerotic disease
+Diabetes,10654151000119105,Ischemic ulcer of toe of right foot due to atherosclerotic disease
+Diabetes,792844003,Limb pain at rest due to atherosclerosis of artery of lower limb
+Diabetes,233961000,Lower limb ischemia
+Diabetes,12236991000119103,Pain at rest of bilateral lower limbs due to atherosclerosis
+Diabetes,12237111000119107,Pain at rest of left lower limb due to atherosclerosis
+Diabetes,12237231000119107,Pain at rest of right lower limb due to atherosclerosis
+Diabetes,127014009,Peripheral angiopathy due to diabetes mellitus
+Diabetes,31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus
+Diabetes,314902007,Peripheral angiopathy due to type 2 diabetes mellitus
+Diabetes,840580004,Peripheral arterial disease
+Diabetes,399957001,Peripheral arterial occlusive disease
+Diabetes,233958001,Peripheral ischemia
+Diabetes,400047006,Peripheral vascular disease
+Diabetes,34881000119105,Peripheral vascular disease associated with another disorder
+Diabetes,307406004,Trash foot
+Diabetes,792850008,Ulcer of ankle due to atherosclerosis of artery of lower limb
+Diabetes,792855003,Ulcer of calf due to atherosclerosis of artery of lower limb
+Diabetes,792846001,Ulcer of heel due to atherosclerosis of artery of lower limb
+Diabetes,275520000,Claudication
+Diabetes,63491006,Intermittent claudication
+Diabetes,16013431000119104,Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft
+Diabetes,836711000000108,Ischaemic lower limb pain at rest
+Hypertension,274722000,Elevated blood-pressure reading w/out diagn of hypertension
+Hypertension,271870002,Low blood pressure reading
+Hypertension,163024003,On examination - blood pressure borderline low
+Hypertension,163023009,On examination - blood pressure reading low
+Hypertension,163022004,On examination - blood pressure reading very low
+Hypertension,271869003,Raised blood pressure reading
+Hypertension,38936003,Abnormal blood pressure
+Hypertension,49844009,Abnormal diastolic arterial pressure
+Hypertension,18352002,Abnormal systolic arterial pressure
+Hypertension,271871003,Blood pressure reading labile
+Hypertension,147850007,Borderline blood pressure
+Hypertension,314956000,Borderline blood pressure
+Hypertension,170604000,Borderline blood pressure
+Hypertension,12763006,Decreased blood pressure
+Hypertension,42689008,Decreased diastolic arterial pressure
+Hypertension,81010002,Decreased systolic arterial pressure
+Hypertension,24184005,Increased blood pressure
+Hypertension,23154005,Increased diastolic arterial pressure
+Hypertension,18050000,Increased systolic arterial pressure
+Hypertension,251080003,Labile blood pressure
+Hypertension,2004005,Normal blood pressure
+Hypertension,147851006,Normal blood pressure
+Hypertension,170605004,Normal blood pressure
+Hypertension,53813002,Normal diastolic arterial pressure
+Hypertension,12929001,Normal systolic arterial pressure
+Hypertension,140250002,O/E - BP labile
+Hypertension,140238008,O/E - BP reading normal
+Hypertension,140240003,O/E - BP reading raised
+Hypertension,140241004,O/E - BP reading very high
+Hypertension,140245008,O/E - BP stable
+Hypertension,147836002,O/E - check high BP
+Hypertension,147835003,O/E - initial high BP
+Hypertension,163031004,On examination - Diastolic blood pressure reading
+Hypertension,163030003,On examination - Systolic blood pressure reading
+Hypertension,163026001,On examination - blood pressure borderline raised
+Hypertension,163036009,On examination - blood pressure decreased
+Hypertension,163037000,On examination - blood pressure labile
+Hypertension,163020007,On examination - blood pressure reading
+Hypertension,163025002,On examination - blood pressure reading normal
+Hypertension,163027005,On examination - blood pressure reading raised
+Hypertension,163028000,On examination - blood pressure reading very high
+Hypertension,163029008,On examination - blood pressure reading: postural drop
+Hypertension,163032006,On examination - blood pressure stable
+Hypertension,170582005,On examination - check high blood pressure
+Hypertension,170581003,On examination - initial high blood pressure
+Hypertension,707303003,Post exercise systolic blood pressure response abnormal
+Hypertension,707304009,Post exercise systolic blood pressure response normal
+Hypertension,775671000000104,Post exercise systolic blood pressure response normal
+Hypertension,147827001,Pre-treatment BP reading
+Hypertension,271647008,Raised blood pressure
+Hypertension,271651005,Stable blood pressure
+Hypertension,862121000000109,Unusual variability in blood pressure
+Hypertension,386534000,Arterial blood pressure
+Hypertension,928021000000108,Baseline blood pressure
+Hypertension,716632005,Baseline diastolic blood pressure
+Hypertension,945851000000103,Baseline diastolic blood pressure
+Hypertension,716579001,Baseline systolic blood pressure
+Hypertension,945871000000107,Baseline systolic blood pressure
+Hypertension,75367002,Blood pressure
+Hypertension,1091811000000102,Diastolic arterial pressure
+Hypertension,67726005,Diastolic arterial pressure
+Hypertension,271650006,Diastolic blood pressure
+Hypertension,163033001,Lying blood pressure
+Hypertension,140246009,Lying blood pressure reading
+Hypertension,407557002,Lying diastolic blood pressure
+Hypertension,407556006,Lying systolic blood pressure
+Hypertension,6797001,Mean blood pressure
+Hypertension,723236006,Minimum blood pressure
+Hypertension,314451001,Minimum diastolic blood pressure
+Hypertension,852301000000109,Minimum mean blood pressure
+Hypertension,314438006,Minimum systolic blood pressure
+Hypertension,251076008,Non-invasive arterial pressure
+Hypertension,723237002,Non-invasive blood pressure
+Hypertension,174255007,Non-invasive diastolic arterial pressure
+Hypertension,251070002,Non-invasive systolic arterial pressure
+Hypertension,251078009,Post-vasodilatation arterial pressure
+Hypertension,163035008,Sitting blood pressure
+Hypertension,140248005,Sitting blood pressure reading
+Hypertension,407555005,Sitting diastolic blood pressure
+Hypertension,407554009,Sitting systolic blood pressure
+Hypertension,163034007,Standing blood pressure
+Hypertension,140247000,Standing blood pressure reading
+Hypertension,400975005,Standing diastolic blood pressure
+Hypertension,400974009,Standing systolic blood pressure
+Hypertension,386536003,Systemic blood pressure
+Hypertension,72313002,Systolic arterial pressure
+Hypertension,271649006,Systolic blood pressure
+Hypertension,1105331000000106,Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection
+Hypertension,990141000000106,Measurement of blood pressure in left arm
+Hypertension,990151000000109,Measurement of blood pressure in right arm
+Hypertension,371911009,Measurement of blood pressure using cuff method
+Hypertension,990231000000105,Measurement of blood pressure using large adult size blood pressure cuff
+Hypertension,810061000000102,Measurement of blood pressure using manual sphygmomanometer by auscultation over brachial artery
+Hypertension,990161000000107,Measurement of blood pressure using manual sphygmomanometer by palpation
+Hypertension,816161000000103,Measurement of blood pressure using non-invasive blood pressure monitor
+Hypertension,990261000000100,Measurement of blood pressure using paediatric size blood pressure cuff
+Hypertension,990251000000103,Measurement of blood pressure using small adult size blood pressure cuff
+Hypertension,990241000000101,Measurement of blood pressure using standard adult size blood pressure cuff
+Hypertension,1034121000000108,Postoperative blood pressure measurement
+Hypertension,722502005,Postoperative blood pressure measurement
+Hypertension,1034101000000104,Preoperative blood pressure measurement
+Hypertension,722500002,Preoperative blood pressure measurement
+Hypertension,170573004,Pre-treatment blood pressure reading
+Hypertension,371622005,Elevated blood pressure reading without diagnosis of hypertension
+Hypertension,313005002,On examination - blood pressure reading: no postural drop
+Hypertension,928031000000105,Baseline blood pressure
+Hypertension,945861000000100,Baseline diastolic blood pressure
+Hypertension,945881000000109,Baseline systolic blood pressure
+Hypertension,100181000000103,Lying diastolic blood pressure
+Hypertension,95311000000107,Lying diastolic blood pressure
+Hypertension,95301000000105,Lying systolic blood pressure
+Hypertension,100171000000100,Lying systolic blood pressure
+Hypertension,1034131000000105,Post-operative blood pressure measurement
+Hypertension,1034111000000102,Pre-operative blood pressure measurement
+Hypertension,100161000000107,Sitting diastolic blood pressure
+Hypertension,95291000000106,Sitting diastolic blood pressure
+Hypertension,100151000000109,Sitting systolic blood pressure
+Hypertension,95281000000109,Sitting systolic blood pressure
+Hypertension,79411000000108,Standing diastolic blood pressure
+Hypertension,75141000000102,Standing diastolic blood pressure
+Hypertension,79401000000106,Standing systolic blood pressure
+Hypertension,75131000000106,Standing systolic blood pressure
+Mental health,1003721000000104,120 minute blood glucose level
+Mental health,1010711000000101,120 minute plasma glucose level
+Mental health,1010651000000106,120 minute serum glucose level
+Mental health,1003731000000102,150 minute blood glucose level
+Mental health,1012661000000105,150 minute plasma glucose level
+Mental health,1010661000000109,150 minute serum glucose level
+Mental health,1003121000000103,180 minute plasma glucose level
+Mental health,1030551000000103,2 hour post-prandial blood glucose level
+Mental health,1045471000000104,210 minute plasma glucose concentration
+Mental health,998281000000106,240 minute plasma glucose level
+Mental health,1003691000000108,30 minute blood glucose level
+Mental health,1010681000000100,30 minute plasma glucose level
+Mental health,1010621000000101,30 minute serum glucose level
+Mental health,998291000000108,300 minute plasma glucose level
+Mental health,1003701000000108,60 minute blood glucose level
+Mental health,1010691000000103,60 minute plasma glucose level
+Mental health,1010631000000104,60 minute serum glucose level
+Mental health,1003711000000105,90 minute blood glucose level
+Mental health,1010701000000103,90 minute plasma glucose level
+Mental health,1010641000000108,90 minute serum glucose level
+Mental health,56861000237104,Arbitrary concentration of glucose in blood
+Mental health,928041000000101,Baseline blood glucose concentration
+Mental health,997671000000106,Blood glucose level
+Mental health,994411000000106,Blood glucose series
+Mental health,996311000000105,Extended glucose tolerance test
+Mental health,997681000000108,Fasting blood glucose level
+Mental health,58111000237107,Fasting substance concentration of glucose in plasma
+Mental health,571000237106,Fasting substance concentration of glucose in serum
+Mental health,1005711000000106,Glucose tolerance test
+Mental health,1028901000000108,Plasma 2 hours post-prandial glucose level
+Mental health,1003141000000105,Plasma fasting glucose level
+Mental health,1010671000000102,Plasma glucose level
+Mental health,1031331000000106,Plasma random glucose level
+Mental health,1083781000000102,Post-prandial blood glucose concentration
+Mental health,1089381000000101,Random blood glucose level
+Mental health,1028891000000107,Serum 2 hours post-prandial glucose level
+Mental health,1003131000000101,Serum fasting glucose level
+Mental health,1010611000000107,Serum glucose level
+Mental health,1028881000000105,Serum random glucose level
+Mental health,56991000237104,Substance concentration of glucose in blood
+Mental health,1110521000000108,Substance concentration of glucose in plasma
+Mental health,1107451000000100,Substance concentration of glucose in serum
+Mental health,1049301000000100,Haemoglobin A1c level (diagnostic reference range) - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Mental health,1049321000000109,Haemoglobin A1c level (monitoring ranges) - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Mental health,999791000000106,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Mental health,1971000237103,Substance concentration of haemoglobin A1c diagnostic reference range in blood
+Mental health,1107481000000106,Substance concentration of haemoglobin A1c in blood
+Mental health,6181000237109,Substance concentration of haemoglobin A1c monitoring range in blood
+Mental health,723870003,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+Mental health,312822006,Critical ischemia of foot
+Mental health,233962007,Critical lower limb ischemia
+Mental health,15649941000119102,Gangrene of bilateral lower limbs co-occurrent and due to atherosclerosis
+Mental health,15649991000119105,Gangrene of left lower limb due to atherosclerosis
+Mental health,15649901000119104,Gangrene of right lower limb due to atherosclerosis
+Mental health,300917007,Ischemia of feet
+Mental health,301755001,Ischemic foot
+Mental health,713412006,Ischemic foot with rest pain
+Mental health,307408003,Ischemic toe
+Mental health,10665871000119100,Ischemic ulcer of left ankle due to atherosclerotic disease
+Mental health,10664071000119107,Ischemic ulcer of left calf due to atherosclerotic disease
+Mental health,10654871000119108,Ischemic ulcer of left foot due to atherosclerotic disease
+Mental health,10655071000119103,Ischemic ulcer of left heel due to atherosclerotic disease
+Mental health,10663991000119105,Ischemic ulcer of left lower leg due to atherosclerotic disease
+Mental health,10655271000119108,Ischemic ulcer of left midfoot due to atherosclerotic disease
+Mental health,10665791000119109,Ischemic ulcer of left thigh due to atherosclerotic disease
+Mental health,10664951000119102,Ischemic ulcer of right ankle due to atherosclerotic disease
+Mental health,10664231000119100,Ischemic ulcer of right calf due to atherosclerotic disease
+Mental health,10655671000119105,Ischemic ulcer of right foot due to atherosclerotic disease
+Mental health,10655831000119106,Ischemic ulcer of right heel due to atherosclerotic disease
+Mental health,10664351000119101,Ischemic ulcer of right lower leg due to atherosclerotic disease
+Mental health,10656031000119109,Ischemic ulcer of right midfoot due to atherosclerotic disease
+Mental health,10665551000119107,Ischemic ulcer of right thigh due to atherosclerotic disease
+Mental health,10653951000119109,Ischemic ulcer of toe of left foot due to atherosclerotic disease
+Mental health,10654151000119105,Ischemic ulcer of toe of right foot due to atherosclerotic disease
+Mental health,792844003,Limb pain at rest due to atherosclerosis of artery of lower limb
+Mental health,233961000,Lower limb ischemia
+Mental health,12236991000119103,Pain at rest of bilateral lower limbs due to atherosclerosis
+Mental health,12237111000119107,Pain at rest of left lower limb due to atherosclerosis
+Mental health,12237231000119107,Pain at rest of right lower limb due to atherosclerosis
+Mental health,127014009,Peripheral angiopathy due to diabetes mellitus
+Mental health,31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus
+Mental health,314902007,Peripheral angiopathy due to type 2 diabetes mellitus
+Mental health,840580004,Peripheral arterial disease
+Mental health,399957001,Peripheral arterial occlusive disease
+Mental health,233958001,Peripheral ischemia
+Mental health,400047006,Peripheral vascular disease
+Mental health,34881000119105,Peripheral vascular disease associated with another disorder
+Mental health,307406004,Trash foot
+Mental health,792850008,Ulcer of ankle due to atherosclerosis of artery of lower limb
+Mental health,792855003,Ulcer of calf due to atherosclerosis of artery of lower limb
+Mental health,792846001,Ulcer of heel due to atherosclerosis of artery of lower limb
+Mental health,275520000,Claudication
+Mental health,63491006,Intermittent claudication
+Mental health,16013431000119104,Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft
+Mental health,836711000000108,Ischaemic lower limb pain at rest
+Non-diabetic hyperglycaemia,1049301000000100,Haemoglobin A1c level (diagnostic reference range) - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Non-diabetic hyperglycaemia,1049321000000109,Haemoglobin A1c level (monitoring ranges) - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Non-diabetic hyperglycaemia,999791000000106,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+Non-diabetic hyperglycaemia,1971000237103,Substance concentration of haemoglobin A1c diagnostic reference range in blood
+Non-diabetic hyperglycaemia,1107481000000106,Substance concentration of haemoglobin A1c in blood
+Non-diabetic hyperglycaemia,6181000237109,Substance concentration of haemoglobin A1c monitoring range in blood
+Non-diabetic hyperglycaemia,390951007,Impaired fasting glycemia
+Non-diabetic hyperglycaemia,849171000000106,Impaired glucose regulation
+Non-diabetic hyperglycaemia,9414007,Impaired glucose tolerance
+Non-diabetic hyperglycaemia,1310004,Impaired glucose tolerance associated with genetic syndrome
+Non-diabetic hyperglycaemia,73480000,Impaired glucose tolerance associated with hormonal etiology
+Non-diabetic hyperglycaemia,88512005,Impaired glucose tolerance associated with insulin receptor abnormality
+Non-diabetic hyperglycaemia,1822007,Impaired glucose tolerance associated with pancreatic disease
+Non-diabetic hyperglycaemia,32284009,Impaired glucose tolerance in nonobese
+Non-diabetic hyperglycaemia,22910008,Impaired glucose tolerance in obese
+Non-diabetic hyperglycaemia,128264007,Impaired glucose tolerance with hyperinsulism
+PAD,723870003,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+PAD,312822006,Critical ischemia of foot
+PAD,233962007,Critical lower limb ischemia
+PAD,15649941000119102,Gangrene of bilateral lower limbs co-occurrent and due to atherosclerosis
+PAD,15649991000119105,Gangrene of left lower limb due to atherosclerosis
+PAD,15649901000119104,Gangrene of right lower limb due to atherosclerosis
+PAD,300917007,Ischemia of feet
+PAD,301755001,Ischemic foot
+PAD,713412006,Ischemic foot with rest pain
+PAD,307408003,Ischemic toe
+PAD,10665871000119100,Ischemic ulcer of left ankle due to atherosclerotic disease
+PAD,10664071000119107,Ischemic ulcer of left calf due to atherosclerotic disease
+PAD,10654871000119108,Ischemic ulcer of left foot due to atherosclerotic disease
+PAD,10655071000119103,Ischemic ulcer of left heel due to atherosclerotic disease
+PAD,10663991000119105,Ischemic ulcer of left lower leg due to atherosclerotic disease
+PAD,10655271000119108,Ischemic ulcer of left midfoot due to atherosclerotic disease
+PAD,10665791000119109,Ischemic ulcer of left thigh due to atherosclerotic disease
+PAD,10664951000119102,Ischemic ulcer of right ankle due to atherosclerotic disease
+PAD,10664231000119100,Ischemic ulcer of right calf due to atherosclerotic disease
+PAD,10655671000119105,Ischemic ulcer of right foot due to atherosclerotic disease
+PAD,10655831000119106,Ischemic ulcer of right heel due to atherosclerotic disease
+PAD,10664351000119101,Ischemic ulcer of right lower leg due to atherosclerotic disease
+PAD,10656031000119109,Ischemic ulcer of right midfoot due to atherosclerotic disease
+PAD,10665551000119107,Ischemic ulcer of right thigh due to atherosclerotic disease
+PAD,10653951000119109,Ischemic ulcer of toe of left foot due to atherosclerotic disease
+PAD,10654151000119105,Ischemic ulcer of toe of right foot due to atherosclerotic disease
+PAD,792844003,Limb pain at rest due to atherosclerosis of artery of lower limb
+PAD,233961000,Lower limb ischemia
+PAD,12236991000119103,Pain at rest of bilateral lower limbs due to atherosclerosis
+PAD,12237111000119107,Pain at rest of left lower limb due to atherosclerosis
+PAD,12237231000119107,Pain at rest of right lower limb due to atherosclerosis
+PAD,127014009,Peripheral angiopathy due to diabetes mellitus
+PAD,31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus
+PAD,314902007,Peripheral angiopathy due to type 2 diabetes mellitus
+PAD,840580004,Peripheral arterial disease
+PAD,399957001,Peripheral arterial occlusive disease
+PAD,233958001,Peripheral ischemia
+PAD,400047006,Peripheral vascular disease
+PAD,34881000119105,Peripheral vascular disease associated with another disorder
+PAD,307406004,Trash foot
+PAD,792850008,Ulcer of ankle due to atherosclerosis of artery of lower limb
+PAD,792855003,Ulcer of calf due to atherosclerosis of artery of lower limb
+PAD,792846001,Ulcer of heel due to atherosclerosis of artery of lower limb
+PAD,275520000,Claudication
+PAD,63491006,Intermittent claudication
+PAD,16013431000119104,Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft
+PAD,836711000000108,Ischaemic lower limb pain at rest
+Smoking,723870003,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+Smoking,312822006,Critical ischemia of foot
+Smoking,233962007,Critical lower limb ischemia
+Smoking,15649941000119102,Gangrene of bilateral lower limbs co-occurrent and due to atherosclerosis
+Smoking,15649991000119105,Gangrene of left lower limb due to atherosclerosis
+Smoking,15649901000119104,Gangrene of right lower limb due to atherosclerosis
+Smoking,300917007,Ischemia of feet
+Smoking,301755001,Ischemic foot
+Smoking,713412006,Ischemic foot with rest pain
+Smoking,307408003,Ischemic toe
+Smoking,10665871000119100,Ischemic ulcer of left ankle due to atherosclerotic disease
+Smoking,10664071000119107,Ischemic ulcer of left calf due to atherosclerotic disease
+Smoking,10654871000119108,Ischemic ulcer of left foot due to atherosclerotic disease
+Smoking,10655071000119103,Ischemic ulcer of left heel due to atherosclerotic disease
+Smoking,10663991000119105,Ischemic ulcer of left lower leg due to atherosclerotic disease
+Smoking,10655271000119108,Ischemic ulcer of left midfoot due to atherosclerotic disease
+Smoking,10665791000119109,Ischemic ulcer of left thigh due to atherosclerotic disease
+Smoking,10664951000119102,Ischemic ulcer of right ankle due to atherosclerotic disease
+Smoking,10664231000119100,Ischemic ulcer of right calf due to atherosclerotic disease
+Smoking,10655671000119105,Ischemic ulcer of right foot due to atherosclerotic disease
+Smoking,10655831000119106,Ischemic ulcer of right heel due to atherosclerotic disease
+Smoking,10664351000119101,Ischemic ulcer of right lower leg due to atherosclerotic disease
+Smoking,10656031000119109,Ischemic ulcer of right midfoot due to atherosclerotic disease
+Smoking,10665551000119107,Ischemic ulcer of right thigh due to atherosclerotic disease
+Smoking,10653951000119109,Ischemic ulcer of toe of left foot due to atherosclerotic disease
+Smoking,10654151000119105,Ischemic ulcer of toe of right foot due to atherosclerotic disease
+Smoking,792844003,Limb pain at rest due to atherosclerosis of artery of lower limb
+Smoking,233961000,Lower limb ischemia
+Smoking,12236991000119103,Pain at rest of bilateral lower limbs due to atherosclerosis
+Smoking,12237111000119107,Pain at rest of left lower limb due to atherosclerosis
+Smoking,12237231000119107,Pain at rest of right lower limb due to atherosclerosis
+Smoking,127014009,Peripheral angiopathy due to diabetes mellitus
+Smoking,31211000119101,Peripheral angiopathy due to type 1 diabetes mellitus
+Smoking,314902007,Peripheral angiopathy due to type 2 diabetes mellitus
+Smoking,840580004,Peripheral arterial disease
+Smoking,399957001,Peripheral arterial occlusive disease
+Smoking,233958001,Peripheral ischemia
+Smoking,400047006,Peripheral vascular disease
+Smoking,34881000119105,Peripheral vascular disease associated with another disorder
+Smoking,307406004,Trash foot
+Smoking,792850008,Ulcer of ankle due to atherosclerosis of artery of lower limb
+Smoking,792855003,Ulcer of calf due to atherosclerosis of artery of lower limb
+Smoking,792846001,Ulcer of heel due to atherosclerosis of artery of lower limb
+Smoking,275520000,Claudication
+Smoking,63491006,Intermittent claudication
+Smoking,16013431000119104,Intermittent claudication of bilateral lower limbs due to atherosclerosis of nonbiological bypass graft
+Smoking,836711000000108,Ischaemic lower limb pain at rest
+Stroke,274722000,Elevated blood-pressure reading w/out diagn of hypertension
+Stroke,271870002,Low blood pressure reading
+Stroke,163024003,On examination - blood pressure borderline low
+Stroke,163023009,On examination - blood pressure reading low
+Stroke,163022004,On examination - blood pressure reading very low
+Stroke,271869003,Raised blood pressure reading
+Stroke,38936003,Abnormal blood pressure
+Stroke,49844009,Abnormal diastolic arterial pressure
+Stroke,18352002,Abnormal systolic arterial pressure
+Stroke,271871003,Blood pressure reading labile
+Stroke,147850007,Borderline blood pressure
+Stroke,314956000,Borderline blood pressure
+Stroke,170604000,Borderline blood pressure
+Stroke,12763006,Decreased blood pressure
+Stroke,42689008,Decreased diastolic arterial pressure
+Stroke,81010002,Decreased systolic arterial pressure
+Stroke,24184005,Increased blood pressure
+Stroke,23154005,Increased diastolic arterial pressure
+Stroke,18050000,Increased systolic arterial pressure
+Stroke,251080003,Labile blood pressure
+Stroke,2004005,Normal blood pressure
+Stroke,147851006,Normal blood pressure
+Stroke,170605004,Normal blood pressure
+Stroke,53813002,Normal diastolic arterial pressure
+Stroke,12929001,Normal systolic arterial pressure
+Stroke,140250002,O/E - BP labile
+Stroke,140238008,O/E - BP reading normal
+Stroke,140240003,O/E - BP reading raised
+Stroke,140241004,O/E - BP reading very high
+Stroke,140245008,O/E - BP stable
+Stroke,147836002,O/E - check high BP
+Stroke,147835003,O/E - initial high BP
+Stroke,163031004,On examination - Diastolic blood pressure reading
+Stroke,163030003,On examination - Systolic blood pressure reading
+Stroke,163026001,On examination - blood pressure borderline raised
+Stroke,163036009,On examination - blood pressure decreased
+Stroke,163037000,On examination - blood pressure labile
+Stroke,163020007,On examination - blood pressure reading
+Stroke,163025002,On examination - blood pressure reading normal
+Stroke,163027005,On examination - blood pressure reading raised
+Stroke,163028000,On examination - blood pressure reading very high
+Stroke,163029008,On examination - blood pressure reading: postural drop
+Stroke,163032006,On examination - blood pressure stable
+Stroke,170582005,On examination - check high blood pressure
+Stroke,170581003,On examination - initial high blood pressure
+Stroke,707303003,Post exercise systolic blood pressure response abnormal
+Stroke,707304009,Post exercise systolic blood pressure response normal
+Stroke,775671000000104,Post exercise systolic blood pressure response normal
+Stroke,147827001,Pre-treatment BP reading
+Stroke,271647008,Raised blood pressure
+Stroke,271651005,Stable blood pressure
+Stroke,862121000000109,Unusual variability in blood pressure
+Stroke,386534000,Arterial blood pressure
+Stroke,928021000000108,Baseline blood pressure
+Stroke,716632005,Baseline diastolic blood pressure
+Stroke,945851000000103,Baseline diastolic blood pressure
+Stroke,716579001,Baseline systolic blood pressure
+Stroke,945871000000107,Baseline systolic blood pressure
+Stroke,75367002,Blood pressure
+Stroke,1091811000000102,Diastolic arterial pressure
+Stroke,67726005,Diastolic arterial pressure
+Stroke,271650006,Diastolic blood pressure
+Stroke,163033001,Lying blood pressure
+Stroke,140246009,Lying blood pressure reading
+Stroke,407557002,Lying diastolic blood pressure
+Stroke,407556006,Lying systolic blood pressure
+Stroke,6797001,Mean blood pressure
+Stroke,723236006,Minimum blood pressure
+Stroke,314451001,Minimum diastolic blood pressure
+Stroke,852301000000109,Minimum mean blood pressure
+Stroke,314438006,Minimum systolic blood pressure
+Stroke,251076008,Non-invasive arterial pressure
+Stroke,723237002,Non-invasive blood pressure
+Stroke,174255007,Non-invasive diastolic arterial pressure
+Stroke,251070002,Non-invasive systolic arterial pressure
+Stroke,251078009,Post-vasodilatation arterial pressure
+Stroke,163035008,Sitting blood pressure
+Stroke,140248005,Sitting blood pressure reading
+Stroke,407555005,Sitting diastolic blood pressure
+Stroke,407554009,Sitting systolic blood pressure
+Stroke,163034007,Standing blood pressure
+Stroke,140247000,Standing blood pressure reading
+Stroke,400975005,Standing diastolic blood pressure
+Stroke,400974009,Standing systolic blood pressure
+Stroke,386536003,Systemic blood pressure
+Stroke,72313002,Systolic arterial pressure
+Stroke,271649006,Systolic blood pressure
+Stroke,1105331000000106,Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection
+Stroke,990141000000106,Measurement of blood pressure in left arm
+Stroke,990151000000109,Measurement of blood pressure in right arm
+Stroke,371911009,Measurement of blood pressure using cuff method
+Stroke,990231000000105,Measurement of blood pressure using large adult size blood pressure cuff
+Stroke,810061000000102,Measurement of blood pressure using manual sphygmomanometer by auscultation over brachial artery
+Stroke,990161000000107,Measurement of blood pressure using manual sphygmomanometer by palpation
+Stroke,816161000000103,Measurement of blood pressure using non-invasive blood pressure monitor
+Stroke,990261000000100,Measurement of blood pressure using paediatric size blood pressure cuff
+Stroke,990251000000103,Measurement of blood pressure using small adult size blood pressure cuff
+Stroke,990241000000101,Measurement of blood pressure using standard adult size blood pressure cuff
+Stroke,1034121000000108,Postoperative blood pressure measurement
+Stroke,722502005,Postoperative blood pressure measurement
+Stroke,1034101000000104,Preoperative blood pressure measurement
+Stroke,722500002,Preoperative blood pressure measurement
+Stroke,170573004,Pre-treatment blood pressure reading
+Stroke,371622005,Elevated blood pressure reading without diagnosis of hypertension
+Stroke,313005002,On examination - blood pressure reading: no postural drop
+Stroke,928031000000105,Baseline blood pressure
+Stroke,945861000000100,Baseline diastolic blood pressure
+Stroke,945881000000109,Baseline systolic blood pressure
+Stroke,100181000000103,Lying diastolic blood pressure
+Stroke,95311000000107,Lying diastolic blood pressure
+Stroke,95301000000105,Lying systolic blood pressure
+Stroke,100171000000100,Lying systolic blood pressure
+Stroke,1034131000000105,Post-operative blood pressure measurement
+Stroke,1034111000000102,Pre-operative blood pressure measurement
+Stroke,100161000000107,Sitting diastolic blood pressure
+Stroke,95291000000106,Sitting diastolic blood pressure
+Stroke,100151000000109,Sitting systolic blood pressure
+Stroke,95281000000109,Sitting systolic blood pressure
+Stroke,79411000000108,Standing diastolic blood pressure
+Stroke,75141000000102,Standing diastolic blood pressure
+Stroke,79401000000106,Standing systolic blood pressure
+Stroke,75131000000106,Standing systolic blood pressure

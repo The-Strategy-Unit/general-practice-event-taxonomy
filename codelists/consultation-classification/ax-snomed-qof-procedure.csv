@@ -1,0 +1,323 @@
+condition_id,snomedctconceptid,snomed_code_description
+Asthma,810901000000102,Asthma self-management plan review
+Atrial fibrillation,275199000,Ball valve aortic valve replacement
+Atrial fibrillation,275030001,Ball valve mitral valve replacement
+Atrial fibrillation,275207004,Ball valve pulmonary valve replacement
+Atrial fibrillation,275203000,Ball valve tricuspid valve replacement
+Atrial fibrillation,308673000,Ball valve truncal valve replacement
+Atrial fibrillation,275202005,Bileaflet aortic valve replacement
+Atrial fibrillation,308671003,Bileaflet atrioventricular valve replacement
+Atrial fibrillation,275033004,Bileaflet mitral valve replacement
+Atrial fibrillation,275211005,Bileaflet pulmonary valve replacement
+Atrial fibrillation,275206008,Bileaflet tricuspid valve replacement
+Atrial fibrillation,308676008,Bileaflet truncal valve replacement
+Atrial fibrillation,232773001,Bjork-Shiley prosthetic replacement of mitral valve
+Atrial fibrillation,275200002,Disc valve aortic valve replacement
+Atrial fibrillation,275031002,Disc valve mitral valve replacement
+Atrial fibrillation,275209001,Disc valve pulmonary valve replacement
+Atrial fibrillation,275204006,Disc valve tricuspid valve replacement
+Atrial fibrillation,308674006,Disc valve truncal valve replacement
+Atrial fibrillation,699347000,Mechanical heart valve replacement
+Atrial fibrillation,174929002,Mechanical prosthetic aortic valve replacement
+Atrial fibrillation,232923009,Mechanical prosthetic atrioventricular valve replacement
+Atrial fibrillation,431339008,Mechanical prosthetic mitral valve replacement
+Atrial fibrillation,174946004,Mechanical prosthetic pulmonary valve replacement
+Atrial fibrillation,174937005,Mechanical prosthetic tricuspid valve replacement
+Atrial fibrillation,232951000,Mechanical prosthetic truncal valve replacement
+Blood pressure,147845001,24 hr blood pressure monitoring
+Blood pressure,141947003,Ambulatory blood pressure recording
+Blood pressure,164783007,Ambulatory blood pressure recording
+Blood pressure,1105331000000106,Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection
+Blood pressure,413153004,Blood pressure recorded by patient at home
+Blood pressure,990141000000106,Measurement of blood pressure in left arm
+Blood pressure,990151000000109,Measurement of blood pressure in right arm
+Blood pressure,371911009,Measurement of blood pressure using cuff method
+Blood pressure,990231000000105,Measurement of blood pressure using large adult size blood pressure cuff
+Blood pressure,810061000000102,Measurement of blood pressure using manual sphygmomanometer by auscultation over brachial artery
+Blood pressure,990161000000107,Measurement of blood pressure using manual sphygmomanometer by palpation
+Blood pressure,816161000000103,Measurement of blood pressure using non-invasive blood pressure monitor
+Blood pressure,990261000000100,Measurement of blood pressure using paediatric size blood pressure cuff
+Blood pressure,990251000000103,Measurement of blood pressure using small adult size blood pressure cuff
+Blood pressure,990241000000101,Measurement of blood pressure using standard adult size blood pressure cuff
+Blood pressure,1034121000000108,Postoperative blood pressure measurement
+Blood pressure,722502005,Postoperative blood pressure measurement
+Blood pressure,722500002,Preoperative blood pressure measurement
+Blood pressure,1034101000000104,Preoperative blood pressure measurement
+Cancer,1239881000000109,Provision of information about cancer support services available in primary care
+Cervical screening,309879006,Abdominal hysterocolpectomy
+Cervical screening,446433007,Anterior exenteration of female pelvis
+Cervical screening,180055000,Anterior exenteration of pelvis
+Cervical screening,236890000,Classic SEMM laparoscopic hysterectomy
+Cervical screening,608805000,Laparoscopic assisted vaginal hysterectomy with repair of cystocele
+Cervical screening,608807008,Laparoscopic assisted vaginal hysterectomy with repair of cystocele and rectocele
+Cervical screening,608806004,Laparoscopic assisted vaginal hysterectomy with repair of rectocele
+Cervical screening,236891001,Laparoscopic radical hysterectomy
+Cervical screening,708878003,Laparoscopic radical hysterectomy using robotic assistance
+Cervical screening,414575003,Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy
+Cervical screening,236888001,Laparoscopic total hysterectomy
+Cervical screening,708877008,Laparoscopic total hysterectomy using robotic assistance
+Cervical screening,708985003,Laparoscopic vaginal hysterectomy using robotic assistance
+Cervical screening,75835007,Laparoscopic-assisted vaginal hysterectomy
+Cervical screening,441820006,Laparoscopic-assisted vaginal hysterectomy with bilateral salpingo-oophorectomy
+Cervical screening,52224004,Pelvic exenteration
+Cervical screening,55853002,"Pelvic exenteration, female"
+Cervical screening,180056004,Posterior exenteration of pelvis
+Cervical screening,860602007,Postpartum excision of uterus
+Cervical screening,307771009,Radical abdominal hysterectomy
+Cervical screening,116142003,Radical hysterectomy
+Cervical screening,918511000000102,Radical hysterectomy with bilateral salpingo-oophorectomy
+Cervical screening,918491000000105,Radical hysterectomy with conservation of ovaries
+Cervical screening,35955002,Radical vaginal hysterectomy
+Cervical screening,88144003,Removal of ectopic interstitial uterine pregnancy requiring total hysterectomy
+Cervical screening,72261007,Resection of rectum with pelvic exenteration
+Cervical screening,116143008,Total abdominal hysterectomy
+Cervical screening,446446002,Total abdominal hysterectomy and removal of vaginal cuff
+Cervical screening,767611008,Total abdominal hysterectomy using intrafascial technique
+Cervical screening,116144002,Total abdominal hysterectomy with bilateral salpingo-oophorectomy
+Cervical screening,767610009,Total hysterectomy via vaginal approach
+Cervical screening,767612001,Total hysterectomy via vaginal approach using intrafascial technique
+Cervical screening,739671004,Total hysterectomy with left oophorectomy
+Cervical screening,740515000,Total hysterectomy with left salpingectomy
+Cervical screening,739673001,Total hysterectomy with left salpingo-oophorectomy
+Cervical screening,86477000,Total hysterectomy with removal of both tubes and ovaries
+Cervical screening,739672006,Total hysterectomy with right oophorectomy
+Cervical screening,740514001,Total hysterectomy with right salpingectomy
+Cervical screening,739674007,Total hysterectomy with right salpingo-oophorectomy
+Cervical screening,446679008,Total laparoscopic excision of uterus by abdominal approach
+Cervical screening,265056007,Vaginal hysterectomy
+Cervical screening,448539002,Vaginal hysterectomy and excision of periuterine tissue
+Cervical screening,918471000000106,Vaginal hysterectomy and left salpingo-oophorectomy
+Cervical screening,762625001,Vaginal hysterectomy and pelvic floor repair
+Cervical screening,918451000000102,Vaginal hysterectomy and right salpingo-oophorectomy
+Cervical screening,413145007,Vaginal hysterectomy with conservation of ovaries
+Cervical screening,77902002,Vaginal hysterectomy with partial colpectomy
+Cervical screening,27185000,Vaginal hysterectomy with partial colpectomy and repair of enterocele
+Cervical screening,699789005,Vaginal hysterectomy with repair of cystocele and rectocele
+Cervical screening,54490004,Vaginal hysterectomy with repair of enterocele
+Cervical screening,43791001,Vaginal hysterectomy with total colpectomy
+Cervical screening,30160001,Vaginal hysterectomy with total colpectomy and repair of enterocele
+Cervical screening,309880009,Vaginal hysterocolpectomy
+Cervical screening,359980002,Vaginal panhysterectomy
+Cervical screening,361223008,Wertheim operation
+Cervical screening,361222003,Wertheim-Meigs abdominal hysterectomy
+Cervical screening,177072002,Examination of female genital tract under anesthetic and papanicolau smear
+Cervical screening,417036008,Liquid based cervical cytology screening
+Cervical screening,439958008,Sampling of cervix for Papanicolaou smear
+Cervical screening,439333006,Sampling of female genital tract for smear
+Cervical screening,438633009,Sampling of vaginal vault for smear
+Cervical screening,171149006,Screening for malignant neoplasm of cervix
+Cervical screening,268408009,Vaginal smear biopsy
+CHD,315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+CHD,413081008,Administration of prophylactic clopidogrel
+CHD,147845001,24 hr blood pressure monitoring
+CHD,164783007,Ambulatory blood pressure recording
+CHD,141947003,Ambulatory blood pressure recording
+CHD,413153004,Blood pressure recorded by patient at home
+CHD,787927008,Administration of prophylactic coagulation factor Xa inhibitor
+CHD,699041005,Administration of prophylactic warfarin
+CHD,719784005,Novel oral anticoagulant prophylaxis
+CHD,312452009,Administration of prophylactic aspirin
+CHD,275931000,Administration of prophylactic aspirin for ischemic heart disease
+CHD,266716006,Administration of prophylactic salicylate
+CHD,717854002,Aspirin therapy
+CHD,314481009,Over the counter aspirin therapy
+CHD,315045009,Taking aspirin education
+Cholesterol,315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Cholesterol,718893008,Assessment using Integrated Palliative care Outcome Scale 5 Patient Version (1 week recall period)
+Cholesterol,718898004,Assessment using Integrated Palliative care Outcome Scale 5 Patient Version (3 day recall period)
+Cholesterol,718901003,Assessment using Integrated Palliative care Outcome Scale 5 Staff Version (1 week recall period)
+Cholesterol,718903000,Assessment using Integrated Palliative care Outcome Scale 5 Staff Version (3 day recall period)
+Cholesterol,718904006,Assessment using Integrated Palliative care Outcome Scale Patient Version (1 week recall period)
+Cholesterol,718899007,Assessment using Integrated Palliative care Outcome Scale Patient Version (3 day recall period)
+Cholesterol,718895001,Assessment using Integrated Palliative care Outcome Scale Staff Version (1 week recall period)
+Cholesterol,718890006,Assessment using Integrated Palliative care Outcome Scale Staff Version (3 day recall period)
+Cholesterol,1099101000000108,Assessment using Palliative Care Outcomes Collaboration assessment tools
+Cholesterol,514591000000108,Completion of DS1500 terminal illness medical report
+Cholesterol,1751111000000104,Completion of SR1 form
+Cholesterol,713058002,End of life care planning
+Cholesterol,376201000000102,Issue of palliative care anticipatory medication box
+Cholesterol,1841000124106,Palliative care medication review
+Cholesterol,871021000000106,Prescription of palliative care anticipatory medication
+Cholesterol,183595007,Refer for terminal care
+Cholesterol,183569005,Refer to terminal care consult
+COPD,1082401000000105,Emergency hospital admission to programmed pulmonary rehabilitation service
+COPD,878051000000107,Pulmonary rehabilitation review
+Diabetes,787399008,Amputation of bilateral feet
+Diabetes,732212008,Amputation of bilateral lower limbs
+Diabetes,723840008,Amputation of bilateral lower limbs above knee
+Diabetes,772057003,Amputation of entire left lower limb and ipsilateral hemipelvis
+Diabetes,723689001,Amputation of left and right leg through tibia and fibula
+Diabetes,723311002,Amputation of left foot
+Diabetes,773821000,Amputation of left forefoot
+Diabetes,787159000,Amputation of left midfoot
+Diabetes,787399008,Amputation of bilateral feet
+Diabetes,732212008,Amputation of bilateral lower limbs
+Diabetes,723840008,Amputation of bilateral lower limbs above knee
+Diabetes,772058008,Amputation of entire right lower limb and ipsilateral hemipelvis
+Diabetes,723689001,Amputation of left and right leg through tibia and fibula
+Diabetes,723312009,Amputation of right foot
+Diabetes,773819005,Amputation of right forefoot
+Diabetes,787161009,Amputation of right midfoot
+Diabetes,315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Diabetes,752451000000100,Cardiovascular disease risk assessment by third party
+Diabetes,147845001,24 hr blood pressure monitoring
+Diabetes,164783007,Ambulatory blood pressure recording
+Diabetes,141947003,Ambulatory blood pressure recording
+Diabetes,413153004,Blood pressure recorded by patient at home
+Heart failure,175162001,Angiocardiography of bilateral sides of heart
+Heart failure,53683005,Angiocardiography of left heart
+Heart failure,252426003,Cardiac ventriculography
+Heart failure,433231002,Contrast echocardiography
+Heart failure,40701008,Echocardiography
+Heart failure,816997000,Echocardiography using pharmacologic stress agent
+Heart failure,785775005,Echocardiography with agitated saline contrast
+Heart failure,433232009,Epicardial echocardiography
+Heart failure,433233004,Exercise stress echocardiography
+Heart failure,252421008,Intracavitary echocardiography
+Heart failure,252420009,Intravascular echocardiography
+Heart failure,265484009,Left ventriculogram
+Heart failure,830079008,Speckle tracking echocardiography
+Heart failure,816996009,Stress echocardiography
+Heart failure,105376000,Transesophageal echocardiography
+Heart failure,425789000,Transluminal intracardiac echocardiography
+Heart failure,433236007,Transthoracic echocardiography
+Heart failure,830078000,Velocity vector imaging echocardiography
+Heart failure,718893008,Assessment using Integrated Palliative care Outcome Scale 5 Patient Version (1 week recall period)
+Heart failure,718898004,Assessment using Integrated Palliative care Outcome Scale 5 Patient Version (3 day recall period)
+Heart failure,718901003,Assessment using Integrated Palliative care Outcome Scale 5 Staff Version (1 week recall period)
+Heart failure,718903000,Assessment using Integrated Palliative care Outcome Scale 5 Staff Version (3 day recall period)
+Heart failure,718904006,Assessment using Integrated Palliative care Outcome Scale Patient Version (1 week recall period)
+Heart failure,718899007,Assessment using Integrated Palliative care Outcome Scale Patient Version (3 day recall period)
+Heart failure,718895001,Assessment using Integrated Palliative care Outcome Scale Staff Version (1 week recall period)
+Heart failure,718890006,Assessment using Integrated Palliative care Outcome Scale Staff Version (3 day recall period)
+Heart failure,1099101000000108,Assessment using Palliative Care Outcomes Collaboration assessment tools
+Heart failure,514591000000108,Completion of DS1500 terminal illness medical report
+Heart failure,1751111000000104,Completion of SR1 form
+Heart failure,713058002,End of life care planning
+Heart failure,376201000000102,Issue of palliative care anticipatory medication box
+Heart failure,1841000124106,Palliative care medication review
+Heart failure,871021000000106,Prescription of palliative care anticipatory medication
+Heart failure,183595007,Refer for terminal care
+Heart failure,183569005,Refer to terminal care consult
+Hypertension,147845001,24 hr blood pressure monitoring
+Hypertension,164783007,Ambulatory blood pressure recording
+Hypertension,141947003,Ambulatory blood pressure recording
+Hypertension,413153004,Blood pressure recorded by patient at home
+Mental health,147845001,24 hr blood pressure monitoring
+Mental health,141947003,Ambulatory blood pressure recording
+Mental health,164783007,Ambulatory blood pressure recording
+Mental health,1105331000000106,Blood pressure measurement using oscillometric monitoring device with opportunistic atrial fibrillation detection
+Mental health,413153004,Blood pressure recorded by patient at home
+Mental health,990141000000106,Measurement of blood pressure in left arm
+Mental health,990151000000109,Measurement of blood pressure in right arm
+Mental health,371911009,Measurement of blood pressure using cuff method
+Mental health,990231000000105,Measurement of blood pressure using large adult size blood pressure cuff
+Mental health,810061000000102,Measurement of blood pressure using manual sphygmomanometer by auscultation over brachial artery
+Mental health,990161000000107,Measurement of blood pressure using manual sphygmomanometer by palpation
+Mental health,816161000000103,Measurement of blood pressure using non-invasive blood pressure monitor
+Mental health,990261000000100,Measurement of blood pressure using paediatric size blood pressure cuff
+Mental health,990251000000103,Measurement of blood pressure using small adult size blood pressure cuff
+Mental health,990241000000101,Measurement of blood pressure using standard adult size blood pressure cuff
+Mental health,1034121000000108,Postoperative blood pressure measurement
+Mental health,722502005,Postoperative blood pressure measurement
+Mental health,722500002,Preoperative blood pressure measurement
+Mental health,1034101000000104,Preoperative blood pressure measurement
+Mental health,315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Mental health,867851000000109,Agreeing on mental health care plan
+Mental health,867871000000100,Review of mental health care plan
+Mental health,315017003,Fasting cholesterol level
+Mental health,104583003,High density lipoprotein/total cholesterol ratio measurement
+Mental health,395153009,Pre-treatment serum cholesterol level
+Mental health,247801000000106,Serum fasting total cholesterol
+Mental health,313811003,Cholesterol/High density lipoprotein ratio measurement
+Palliative care,718893008,Assessment using Integrated Palliative care Outcome Scale 5 Patient Version (1 week recall period)
+Palliative care,718898004,Assessment using Integrated Palliative care Outcome Scale 5 Patient Version (3 day recall period)
+Palliative care,718901003,Assessment using Integrated Palliative care Outcome Scale 5 Staff Version (1 week recall period)
+Palliative care,718903000,Assessment using Integrated Palliative care Outcome Scale 5 Staff Version (3 day recall period)
+Palliative care,718904006,Assessment using Integrated Palliative care Outcome Scale Patient Version (1 week recall period)
+Palliative care,718899007,Assessment using Integrated Palliative care Outcome Scale Patient Version (3 day recall period)
+Palliative care,718895001,Assessment using Integrated Palliative care Outcome Scale Staff Version (1 week recall period)
+Palliative care,718890006,Assessment using Integrated Palliative care Outcome Scale Staff Version (3 day recall period)
+Palliative care,1099101000000108,Assessment using Palliative Care Outcomes Collaboration assessment tools
+Palliative care,514591000000108,Completion of DS1500 terminal illness medical report
+Palliative care,1751111000000104,Completion of SR1 form
+Palliative care,713058002,End of life care planning
+Palliative care,376201000000102,Issue of palliative care anticipatory medication box
+Palliative care,1841000124106,Palliative care medication review
+Palliative care,871021000000106,Prescription of palliative care anticipatory medication
+Palliative care,183595007,Refer for terminal care
+Palliative care,183569005,Refer to terminal care consult
+Smoking,315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Smoking,719509001,Bupropion therapy
+Smoking,784481000000108,Issue of nicotine replacement therapy voucher
+Smoking,151159008,Nicotine replacement therapy
+Smoking,390905006,Nicotine replacement therapy provided free
+Smoking,280801000000101,Nicotine replacement therapy using nicotine gum
+Smoking,280811000000104,Nicotine replacement therapy using nicotine inhalator
+Smoking,790131000000109,Nicotine replacement therapy using nicotine lozenge
+Smoking,790121000000107,Nicotine replacement therapy using nicotine patch
+Smoking,315055008,Over the counter nicotine replacement therapy
+Smoking,719591006,Varenicline therapy
+Smoking,771155005,Brief intervention for smoking cessation
+Smoking,225323000,Smoking cessation education
+Stroke,413081008,Administration of prophylactic clopidogrel
+Stroke,147845001,24 hr blood pressure monitoring
+Stroke,164783007,Ambulatory blood pressure recording
+Stroke,141947003,Ambulatory blood pressure recording
+Stroke,413153004,Blood pressure recorded by patient at home
+Stroke,787927008,Administration of prophylactic coagulation factor Xa inhibitor
+Stroke,699041005,Administration of prophylactic warfarin
+Stroke,719784005,Novel oral anticoagulant prophylaxis
+Stroke,312452009,Administration of prophylactic aspirin
+Stroke,275931000,Administration of prophylactic aspirin for ischemic heart disease
+Stroke,266716006,Administration of prophylactic salicylate
+Stroke,717854002,Aspirin therapy
+Stroke,314481009,Over the counter aspirin therapy
+Stroke,315045009,Taking aspirin education
+Vaccination and Immunisation,390865008,Administration of booster dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,868277008,Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,412762002,Administration of first dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,868274001,Administration of second dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,412763007,Administration of second dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,868276004,Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,412764001,Administration of third dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,868273007,Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,16290681000119103,Administration of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and inactivated whole Human poliovirus antigens
+Vaccination and Immunisation,414620004,Administration of vaccine product containing only acellular Bordetella pertussis five component and Clostridium tetani and low dose Corynebacterium diphtheriae and inactivated whole Human poliovirus antigens
+Vaccination and Immunisation,247821000000102,"Booster diphtheria, tetanus, acellular pertussis and inactivated polio vaccination"
+Vaccination and Immunisation,842861000000101,"Post exposure diphtheria, tetanus, acellular pertussis and inactivated polio vaccination"
+Vaccination and Immunisation,310306005,Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Human poliovirus antigens
+Vaccination and Immunisation,414259000,"Administration of first dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type b and inactivated whole Human poliovirus antigens"
+Vaccination and Immunisation,313383003,Administration of fourth dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Human poliovirus antigens
+Vaccination and Immunisation,310307001,Administration of second dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Human poliovirus antigens
+Vaccination and Immunisation,415507003,"Administration of second dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type b and inactivated whole Human poliovirus antigens"
+Vaccination and Immunisation,310308006,Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Human poliovirus antigens
+Vaccination and Immunisation,415712004,"Administration of third dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type b and inactivated whole Human poliovirus antigens"
+Vaccination and Immunisation,312870000,Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Human poliovirus antigens
+Vaccination and Immunisation,414001002,Administration of vaccine product containing only five component acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and inactivated whole Human poliovirus antigens
+Vaccination and Immunisation,310551000000106,"Booster diphtheria tetanus and five component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination"
+Vaccination and Immunisation,379241000000107,"Booster diphtheria tetanus and three component acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination"
+Vaccination and Immunisation,335051000000104,"Booster diphtheria, tetanus, acellular pertussis, haemophilus influenzae type b, inactivated polio vaccination"
+Vaccination and Immunisation,1162640003,Administration of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type b and Hepatitis B virus and inactivated Human poliovirus antigens
+Vaccination and Immunisation,1082431000000104,"Diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination"
+Vaccination and Immunisation,1082441000000108,"First diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination"
+Vaccination and Immunisation,1082451000000106,"Second diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination"
+Vaccination and Immunisation,1082461000000109,"Third diphtheria, tetanus and acellular pertussis, inactivated polio, Haemophilus influenzae type b and hepatitis B vaccination"
+Vaccination and Immunisation,390865008,Administration of booster dose of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens
+Vaccination and Immunisation,247821000000102,"Booster diphtheria, tetanus, acellular pertussis and inactivated polio vaccination"
+Vaccination and Immunisation,38598009,Administration of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,571591000119106,Administration of vaccine product containing only live attenuated Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,308081000000105,Measles mumps and rubella vaccination - first dose
+Vaccination and Immunisation,505001000000109,Measles mumps rubella catch-up vaccination
+Vaccination and Immunisation,170431005,Administration of booster dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,170432003,Administration of pre-school booster dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,170433008,Administration of second dose of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,38598009,Administration of vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,571591000119106,Administration of vaccine product containing only live attenuated Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens
+Vaccination and Immunisation,505001000000109,Measles mumps rubella catch-up vaccination
+Vaccination and Immunisation,1326101000000105,Administration of first dose of vaccine product containing only Human alphaherpesvirus 3 antigen for shingles
+Vaccination and Immunisation,1326111000000107,Administration of second dose of vaccine product containing only Human alphaherpesvirus 3 antigen for shingles
+Vaccination and Immunisation,722215002,Administration of vaccine product containing only Human alphaherpesvirus 3 antigen for shingles
+Vaccination and Immunisation,871898007,Administration of vaccine product containing only live attenuated Human alphaherpesvirus 3 antigen
+Vaccination and Immunisation,871899004,Administration of vaccine product containing only live attenuated Human alphaherpesvirus 3 antigen via subcutaneous route
+Vaccination and Immunisation,859641000000109,Herpes zoster vaccination
